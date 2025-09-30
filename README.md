@@ -15,9 +15,13 @@ This project provides a **data-driven analysis** of global oil and energy trade 
 
 ## Contents
 - **Report.md** → Full detailed report  
-- **Report.pdf** → Printable professional version  
+- **Report.pdf** → Printable professional version
+- **Python Notebooks/** → Jupyter Notebooks for EDA 
 - **Charts/** → Figures used in analysis  
-- **Data/** → (Optional) Reference datasets  
+- **Data Sets/** → (Optional) Reference datasets
+- **PowerBI Dashboard & Charts/** → includes .Pbix file
+- **ScreenShots/** → All screenshot for Charts and Graphs
+-  
 
 ## Tools & Technologies
 - Python  
