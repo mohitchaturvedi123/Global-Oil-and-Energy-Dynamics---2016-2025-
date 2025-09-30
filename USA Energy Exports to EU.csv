@@ -1,0 +1,35 @@
+Energy Type,Year,Value
+LNG,2020,1.5
+LNG,2021,5.2
+Crude Oil,2020,7
+Crude Oil,2021,15.5
+Petroleum Products,2020,6.5
+Petroleum Products,2021,7.5
+LPG,2020,1.2
+LPG,2021,1.8
+Coal,2020,0.8
+Coal,2021,1.2
+LNG,2022,16.5
+LNG,2023,18.7
+LNG,2024,20.9
+LNG,2025,23.5
+Crude Oil,2022,35.2
+Crude Oil,2023,40.1
+Crude Oil,2024,42.65
+Crude Oil,2025,46.5
+Petroleum Products,2022,8.5
+Petroleum Products,2023,9.8
+Petroleum Products,2024,10.9
+Petroleum Products,2025,11.5
+LPG,2022,2.8
+LPG,2023,3.2
+LPG,2024,3.4
+LPG,2025,3.25
+Coal,2022,4.5
+Coal,2023,4.2
+Coal,2024,3.95
+Coal,2025,3.15
+,,
+,,
+,,
+,,

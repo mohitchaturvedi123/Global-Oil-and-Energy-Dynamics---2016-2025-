@@ -1,0 +1,321 @@
+Country,Energy Type,Total Price (USD Million),Month,Year
+China,Crude Oil,6840.0,January,2022
+India,Crude Oil,1368.0,January,2022
+EU,Crude Oil,2280.0,January,2022
+EU,Gas (Pipeline),3600.0,January,2022
+Turkey,Gas (Pipeline),1650.0,January,2022
+Others,Coal,1200.0,January,2022
+Others,Petroleum Products,1800.0,January,2022
+China,LNG,600.0,January,2022
+China,Crude Oil,6840.0,February,2022
+India,Crude Oil,1368.0,February,2022
+EU,Crude Oil,2280.0,February,2022
+EU,Gas (Pipeline),3600.0,February,2022
+Turkey,Gas (Pipeline),1650.0,February,2022
+Others,Coal,1200.0,February,2022
+Others,Petroleum Products,1800.0,February,2022
+China,LNG,600.0,February,2022
+China,Crude Oil,6840.0,March,2022
+India,Crude Oil,1368.0,March,2022
+EU,Crude Oil,2280.0,March,2022
+EU,Gas (Pipeline),3600.0,March,2022
+Turkey,Gas (Pipeline),1650.0,March,2022
+Others,Coal,1200.0,March,2022
+Others,Petroleum Products,1800.0,March,2022
+China,LNG,600.0,March,2022
+China,Crude Oil,6840.0,April,2022
+India,Crude Oil,1368.0,April,2022
+EU,Crude Oil,2280.0,April,2022
+EU,Gas (Pipeline),3600.0,April,2022
+Turkey,Gas (Pipeline),1650.0,April,2022
+Others,Coal,1200.0,April,2022
+Others,Petroleum Products,1800.0,April,2022
+China,LNG,600.0,April,2022
+China,Crude Oil,6840.0,May,2022
+India,Crude Oil,1368.0,May,2022
+EU,Crude Oil,2280.0,May,2022
+EU,Gas (Pipeline),3600.0,May,2022
+Turkey,Gas (Pipeline),1650.0,May,2022
+Others,Coal,1200.0,May,2022
+Others,Petroleum Products,1800.0,May,2022
+China,LNG,600.0,May,2022
+China,Crude Oil,6840.0,June,2022
+India,Crude Oil,1368.0,June,2022
+EU,Crude Oil,2280.0,June,2022
+EU,Gas (Pipeline),3600.0,June,2022
+Turkey,Gas (Pipeline),1650.0,June,2022
+Others,Coal,1200.0,June,2022
+Others,Petroleum Products,1800.0,June,2022
+China,LNG,600.0,June,2022
+China,Crude Oil,6840.0,July,2022
+India,Crude Oil,1368.0,July,2022
+EU,Crude Oil,2280.0,July,2022
+EU,Gas (Pipeline),3600.0,July,2022
+Turkey,Gas (Pipeline),1650.0,July,2022
+Others,Coal,1200.0,July,2022
+Others,Petroleum Products,1800.0,July,2022
+China,LNG,600.0,July,2022
+China,Crude Oil,6840.0,August,2022
+India,Crude Oil,1368.0,August,2022
+EU,Crude Oil,2280.0,August,2022
+EU,Gas (Pipeline),3600.0,August,2022
+Turkey,Gas (Pipeline),1650.0,August,2022
+Others,Coal,1200.0,August,2022
+Others,Petroleum Products,1800.0,August,2022
+China,LNG,600.0,August,2022
+China,Crude Oil,6840.0,September,2022
+India,Crude Oil,1368.0,September,2022
+EU,Crude Oil,2280.0,September,2022
+EU,Gas (Pipeline),3600.0,September,2022
+Turkey,Gas (Pipeline),1650.0,September,2022
+Others,Coal,1200.0,September,2022
+Others,Petroleum Products,1800.0,September,2022
+China,LNG,600.0,September,2022
+China,Crude Oil,6840.0,October,2022
+India,Crude Oil,1368.0,October,2022
+EU,Crude Oil,2280.0,October,2022
+EU,Gas (Pipeline),3600.0,October,2022
+Turkey,Gas (Pipeline),1650.0,October,2022
+Others,Coal,1200.0,October,2022
+Others,Petroleum Products,1800.0,October,2022
+China,LNG,600.0,October,2022
+China,Crude Oil,6840.0,November,2022
+India,Crude Oil,1368.0,November,2022
+EU,Crude Oil,2280.0,November,2022
+EU,Gas (Pipeline),3600.0,November,2022
+Turkey,Gas (Pipeline),1650.0,November,2022
+Others,Coal,1200.0,November,2022
+Others,Petroleum Products,1800.0,November,2022
+China,LNG,600.0,November,2022
+China,Crude Oil,6840.0,December,2022
+India,Crude Oil,1368.0,December,2022
+EU,Crude Oil,2280.0,December,2022
+EU,Gas (Pipeline),3600.0,December,2022
+Turkey,Gas (Pipeline),1650.0,December,2022
+Others,Coal,1200.0,December,2022
+Others,Petroleum Products,1800.0,December,2022
+China,LNG,600.0,December,2022
+China,Crude Oil,7560.0,January,2023
+India,Crude Oil,3150.0,January,2023
+EU,Crude Oil,1890.0,January,2023
+EU,Gas (Pipeline),1500.0,January,2023
+Turkey,Gas (Pipeline),1200.0,January,2023
+Others,Coal,900.0,January,2023
+Others,Petroleum Products,1500.0,January,2023
+China,LNG,900.0,January,2023
+China,Crude Oil,7560.0,February,2023
+India,Crude Oil,3150.0,February,2023
+EU,Crude Oil,1890.0,February,2023
+EU,Gas (Pipeline),1500.0,February,2023
+Turkey,Gas (Pipeline),1200.0,February,2023
+Others,Coal,900.0,February,2023
+Others,Petroleum Products,1500.0,February,2023
+China,LNG,900.0,February,2023
+China,Crude Oil,7560.0,March,2023
+India,Crude Oil,3150.0,March,2023
+EU,Crude Oil,1890.0,March,2023
+EU,Gas (Pipeline),1500.0,March,2023
+Turkey,Gas (Pipeline),1200.0,March,2023
+Others,Coal,900.0,March,2023
+Others,Petroleum Products,1500.0,March,2023
+China,LNG,900.0,March,2023
+China,Crude Oil,7560.0,April,2023
+India,Crude Oil,3150.0,April,2023
+EU,Crude Oil,1890.0,April,2023
+EU,Gas (Pipeline),1500.0,April,2023
+Turkey,Gas (Pipeline),1200.0,April,2023
+Others,Coal,900.0,April,2023
+Others,Petroleum Products,1500.0,April,2023
+China,LNG,900.0,April,2023
+China,Crude Oil,7560.0,May,2023
+India,Crude Oil,3150.0,May,2023
+EU,Crude Oil,1890.0,May,2023
+EU,Gas (Pipeline),1500.0,May,2023
+Turkey,Gas (Pipeline),1200.0,May,2023
+Others,Coal,900.0,May,2023
+Others,Petroleum Products,1500.0,May,2023
+China,LNG,900.0,May,2023
+China,Crude Oil,7560.0,June,2023
+India,Crude Oil,3150.0,June,2023
+EU,Crude Oil,1890.0,June,2023
+EU,Gas (Pipeline),1500.0,June,2023
+Turkey,Gas (Pipeline),1200.0,June,2023
+Others,Coal,900.0,June,2023
+Others,Petroleum Products,1500.0,June,2023
+China,LNG,900.0,June,2023
+China,Crude Oil,7560.0,July,2023
+India,Crude Oil,3150.0,July,2023
+EU,Crude Oil,1890.0,July,2023
+EU,Gas (Pipeline),1500.0,July,2023
+Turkey,Gas (Pipeline),1200.0,July,2023
+Others,Coal,900.0,July,2023
+Others,Petroleum Products,1500.0,July,2023
+China,LNG,900.0,July,2023
+China,Crude Oil,7560.0,August,2023
+India,Crude Oil,3150.0,August,2023
+EU,Crude Oil,1890.0,August,2023
+EU,Gas (Pipeline),1500.0,August,2023
+Turkey,Gas (Pipeline),1200.0,August,2023
+Others,Coal,900.0,August,2023
+Others,Petroleum Products,1500.0,August,2023
+China,LNG,900.0,August,2023
+China,Crude Oil,7560.0,September,2023
+India,Crude Oil,3150.0,September,2023
+EU,Crude Oil,1890.0,September,2023
+EU,Gas (Pipeline),1500.0,September,2023
+Turkey,Gas (Pipeline),1200.0,September,2023
+Others,Coal,900.0,September,2023
+Others,Petroleum Products,1500.0,September,2023
+China,LNG,900.0,September,2023
+China,Crude Oil,7560.0,October,2023
+India,Crude Oil,3150.0,October,2023
+EU,Crude Oil,1890.0,October,2023
+EU,Gas (Pipeline),1500.0,October,2023
+Turkey,Gas (Pipeline),1200.0,October,2023
+Others,Coal,900.0,October,2023
+Others,Petroleum Products,1500.0,October,2023
+China,LNG,900.0,October,2023
+China,Crude Oil,7560.0,November,2023
+India,Crude Oil,3150.0,November,2023
+EU,Crude Oil,1890.0,November,2023
+EU,Gas (Pipeline),1500.0,November,2023
+Turkey,Gas (Pipeline),1200.0,November,2023
+Others,Coal,900.0,November,2023
+Others,Petroleum Products,1500.0,November,2023
+China,LNG,900.0,November,2023
+China,Crude Oil,7560.0,December,2023
+India,Crude Oil,3150.0,December,2023
+EU,Crude Oil,1890.0,December,2023
+EU,Gas (Pipeline),1500.0,December,2023
+Turkey,Gas (Pipeline),1200.0,December,2023
+Others,Coal,900.0,December,2023
+Others,Petroleum Products,1500.0,December,2023
+China,LNG,900.0,December,2023
+China,Crude Oil,6840.0,January,2024
+India,Crude Oil,3420.0,January,2024
+EU,Crude Oil,1710.0,January,2024
+EU,Gas (Pipeline),1200.0,January,2024
+Turkey,Gas (Pipeline),900.0,January,2024
+Others,Coal,750.0,January,2024
+Others,Petroleum Products,1200.0,January,2024
+China,LNG,1050.0,January,2024
+China,Crude Oil,6840.0,February,2024
+India,Crude Oil,3420.0,February,2024
+EU,Crude Oil,1710.0,February,2024
+EU,Gas (Pipeline),1200.0,February,2024
+Turkey,Gas (Pipeline),900.0,February,2024
+Others,Coal,750.0,February,2024
+Others,Petroleum Products,1200.0,February,2024
+China,LNG,1050.0,February,2024
+China,Crude Oil,6840.0,March,2024
+India,Crude Oil,3420.0,March,2024
+EU,Crude Oil,1710.0,March,2024
+EU,Gas (Pipeline),1200.0,March,2024
+Turkey,Gas (Pipeline),900.0,March,2024
+Others,Coal,750.0,March,2024
+Others,Petroleum Products,1200.0,March,2024
+China,LNG,1050.0,March,2024
+China,Crude Oil,6840.0,April,2024
+India,Crude Oil,3420.0,April,2024
+EU,Crude Oil,1710.0,April,2024
+EU,Gas (Pipeline),1200.0,April,2024
+Turkey,Gas (Pipeline),900.0,April,2024
+Others,Coal,750.0,April,2024
+Others,Petroleum Products,1200.0,April,2024
+China,LNG,1050.0,April,2024
+China,Crude Oil,6840.0,May,2024
+India,Crude Oil,3420.0,May,2024
+EU,Crude Oil,1710.0,May,2024
+EU,Gas (Pipeline),1200.0,May,2024
+Turkey,Gas (Pipeline),900.0,May,2024
+Others,Coal,750.0,May,2024
+Others,Petroleum Products,1200.0,May,2024
+China,LNG,1050.0,May,2024
+China,Crude Oil,6840.0,June,2024
+India,Crude Oil,3420.0,June,2024
+EU,Crude Oil,1710.0,June,2024
+EU,Gas (Pipeline),1200.0,June,2024
+Turkey,Gas (Pipeline),900.0,June,2024
+Others,Coal,750.0,June,2024
+Others,Petroleum Products,1200.0,June,2024
+China,LNG,1050.0,June,2024
+China,Crude Oil,6840.0,July,2024
+India,Crude Oil,3420.0,July,2024
+EU,Crude Oil,1710.0,July,2024
+EU,Gas (Pipeline),1200.0,July,2024
+Turkey,Gas (Pipeline),900.0,July,2024
+Others,Coal,750.0,July,2024
+Others,Petroleum Products,1200.0,July,2024
+China,LNG,1050.0,July,2024
+China,Crude Oil,6840.0,August,2024
+India,Crude Oil,3420.0,August,2024
+EU,Crude Oil,1710.0,August,2024
+EU,Gas (Pipeline),1200.0,August,2024
+Turkey,Gas (Pipeline),900.0,August,2024
+Others,Coal,750.0,August,2024
+Others,Petroleum Products,1200.0,August,2024
+China,LNG,1050.0,August,2024
+China,Crude Oil,7020.0,January,2025
+India,Crude Oil,3510.0,January,2025
+EU,Crude Oil,1560.0,January,2025
+EU,Gas (Pipeline),900.0,January,2025
+Turkey,Gas (Pipeline),600.0,January,2025
+Others,Coal,600.0,January,2025
+Others,Petroleum Products,1050.0,January,2025
+China,LNG,1200.0,January,2025
+China,Crude Oil,7020.0,February,2025
+India,Crude Oil,3510.0,February,2025
+EU,Crude Oil,1560.0,February,2025
+EU,Gas (Pipeline),900.0,February,2025
+Turkey,Gas (Pipeline),600.0,February,2025
+Others,Coal,600.0,February,2025
+Others,Petroleum Products,1050.0,February,2025
+China,LNG,1200.0,February,2025
+China,Crude Oil,7020.0,March,2025
+India,Crude Oil,3510.0,March,2025
+EU,Crude Oil,1560.0,March,2025
+EU,Gas (Pipeline),900.0,March,2025
+Turkey,Gas (Pipeline),600.0,March,2025
+Others,Coal,600.0,March,2025
+Others,Petroleum Products,1050.0,March,2025
+China,LNG,1200.0,March,2025
+China,Crude Oil,7020.0,April,2025
+India,Crude Oil,3510.0,April,2025
+EU,Crude Oil,1560.0,April,2025
+EU,Gas (Pipeline),900.0,April,2025
+Turkey,Gas (Pipeline),600.0,April,2025
+Others,Coal,600.0,April,2025
+Others,Petroleum Products,1050.0,April,2025
+China,LNG,1200.0,April,2025
+China,Crude Oil,7020.0,May,2025
+India,Crude Oil,3510.0,May,2025
+EU,Crude Oil,1560.0,May,2025
+EU,Gas (Pipeline),900.0,May,2025
+Turkey,Gas (Pipeline),600.0,May,2025
+Others,Coal,600.0,May,2025
+Others,Petroleum Products,1050.0,May,2025
+China,LNG,1200.0,May,2025
+China,Crude Oil,7020.0,June,2025
+India,Crude Oil,3510.0,June,2025
+EU,Crude Oil,1560.0,June,2025
+EU,Gas (Pipeline),900.0,June,2025
+Turkey,Gas (Pipeline),600.0,June,2025
+Others,Coal,600.0,June,2025
+Others,Petroleum Products,1050.0,June,2025
+China,LNG,1200.0,June,2025
+China,Crude Oil,7020.0,July,2025
+India,Crude Oil,3510.0,July,2025
+EU,Crude Oil,1560.0,July,2025
+EU,Gas (Pipeline),900.0,July,2025
+Turkey,Gas (Pipeline),600.0,July,2025
+Others,Coal,600.0,July,2025
+Others,Petroleum Products,1050.0,July,2025
+China,LNG,1200.0,July,2025
+China,Crude Oil,7020.0,August,2025
+India,Crude Oil,3510.0,August,2025
+EU,Crude Oil,1560.0,August,2025
+EU,Gas (Pipeline),900.0,August,2025
+Turkey,Gas (Pipeline),600.0,August,2025
+Others,Coal,600.0,August,2025
+Others,Petroleum Products,1050.0,August,2025
+China,LNG,1200.0,August,2025

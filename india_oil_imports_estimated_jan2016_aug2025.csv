@@ -1,0 +1,913 @@
+Month,Year,Month-Year,Country,Volume_MMbbl,Price_USD_per_bbl,Share_pct,TotalCost_USD_million
+January,2016,Jan-16,Iraq,14.2,31.68,21.5,449.7
+January,2016,Jan-16,Saudi Arabia,13.8,31.68,20.9,437
+January,2016,Jan-16,Nigeria,10.5,31.68,15.9,332.6
+January,2016,Jan-16,United Arab Emirates,8.7,31.68,13.2,275.4
+January,2016,Jan-16,United States,6.3,31.68,9.5,199.6
+January,2016,Jan-16,Venezuela,5.1,31.68,7.7,161.6
+January,2016,Jan-16,Kuwait,4.2,31.68,6.4,133.1
+January,2016,Jan-16,Russia,2.8,31.68,4.2,88.7
+January,2016,Jan-16,Others,0.4,31.68,0.6,12.7
+February,2016,Feb-16,Iraq,13.9,30.32,21.1,421.5
+February,2016,Feb-16,Saudi Arabia,13.5,30.32,20.5,409.3
+February,2016,Feb-16,Nigeria,10.3,30.32,15.6,312.3
+February,2016,Feb-16,United Arab Emirates,8.5,30.32,12.9,257.7
+February,2016,Feb-16,United States,6.2,30.32,9.4,187.9
+February,2016,Feb-16,Venezuela,5,30.32,7.6,151.6
+February,2016,Feb-16,Kuwait,4.1,30.32,6.2,124.3
+February,2016,Feb-16,Russia,2.7,30.32,4.1,81.9
+February,2016,Feb-16,Others,0.4,30.32,0.6,12.1
+March,2016,Mar-16,Iraq,14.5,37.55,21.9,544.5
+March,2016,Mar-16,Saudi Arabia,14.1,37.55,21.3,529.9
+March,2016,Mar-16,Nigeria,10.7,37.55,16.2,401.8
+March,2016,Mar-16,United Arab Emirates,8.8,37.55,13.3,330.6
+March,2016,Mar-16,United States,6.4,37.55,9.7,240.3
+March,2016,Mar-16,Venezuela,5.2,37.55,7.9,195.3
+March,2016,Mar-16,Kuwait,4.3,37.55,6.5,161.5
+March,2016,Mar-16,Russia,2.9,37.55,4.4,109
+March,2016,Mar-16,Others,0.4,37.55,0.6,15
+April,2016,Apr-16,Iraq,14.8,40.75,22.4,603.3
+April,2016,Apr-16,Saudi Arabia,14.4,40.75,21.8,586.8
+April,2016,Apr-16,Nigeria,10.9,40.75,16.5,444.3
+April,2016,Apr-16,United Arab Emirates,9,40.75,13.6,366.8
+April,2016,Apr-16,United States,6.5,40.75,9.8,265
+April,2016,Apr-16,Venezuela,5.3,40.75,8,216
+April,2016,Apr-16,Kuwait,4.4,40.75,6.7,179.3
+April,2016,Apr-16,Russia,3,40.75,4.5,122.3
+April,2016,Apr-16,Others,0.4,40.75,0.6,16.3
+May,2016,May-16,Iraq,15.1,46.71,22.9,705.1
+May,2016,May-16,Saudi Arabia,14.7,46.71,22.3,686.2
+May,2016,May-16,Nigeria,11.1,46.71,16.8,518.5
+May,2016,May-16,United Arab Emirates,9.2,46.71,13.9,429.7
+May,2016,May-16,United States,6.7,46.71,10.1,312.6
+May,2016,May-16,Venezuela,5.4,46.71,8.2,252.2
+May,2016,May-16,Kuwait,4.5,46.71,6.8,210.2
+May,2016,May-16,Russia,3.1,46.71,4.7,144.8
+May,2016,May-16,Others,0.4,46.71,0.6,18.7
+June,2016,Jun-16,Iraq,15.4,48.76,23.3,751.3
+June,2016,Jun-16,Saudi Arabia,15,48.76,22.7,731.4
+June,2016,Jun-16,Nigeria,11.3,48.76,17.1,551.2
+June,2016,Jun-16,United Arab Emirates,9.4,48.76,14.2,458.5
+June,2016,Jun-16,United States,6.8,48.76,10.3,331.6
+June,2016,Jun-16,Venezuela,5.5,48.76,8.3,268.2
+June,2016,Jun-16,Kuwait,4.6,48.76,7,224.3
+June,2016,Jun-16,Russia,3.2,48.76,4.8,156
+June,2016,Jun-16,Others,0.4,48.76,0.6,19.5
+July,2016,Jul-16,Iraq,14,44.65,21.2,625.1
+July,2016,Jul-16,Saudi Arabia,13.6,44.65,20.6,607.2
+July,2016,Jul-16,Nigeria,10.4,44.65,15.7,464.4
+July,2016,Jul-16,United Arab Emirates,8.6,44.65,13,383.8
+July,2016,Jul-16,United States,6.2,44.65,9.4,276.8
+July,2016,Jul-16,Venezuela,5,44.65,7.6,223.3
+July,2016,Jul-16,Kuwait,4.1,44.65,6.2,183.1
+July,2016,Jul-16,Russia,2.7,44.65,4.1,120.6
+July,2016,Jul-16,Others,0.4,44.65,0.6,17.9
+August,2016,Aug-16,Iraq,14.3,44.72,21.7,639.1
+August,2016,Aug-16,Saudi Arabia,13.9,44.72,21.1,621.5
+August,2016,Aug-16,Nigeria,10.6,44.72,16,474
+August,2016,Aug-16,United Arab Emirates,8.7,44.72,13.2,388.7
+August,2016,Aug-16,United States,6.3,44.72,9.5,281.7
+August,2016,Aug-16,Venezuela,5.1,44.72,7.7,228.1
+August,2016,Aug-16,Kuwait,4.2,44.72,6.4,187.8
+August,2016,Aug-16,Russia,2.8,44.72,4.2,125.2
+August,2016,Aug-16,Others,0.4,44.72,0.6,17.9
+September,2016,Sep-16,Iraq,14.6,45.18,22.1,659.6
+September,2016,Sep-16,Saudi Arabia,14.2,45.18,21.5,641.6
+September,2016,Sep-16,Nigeria,10.8,45.18,16.3,488
+September,2016,Sep-16,United Arab Emirates,8.9,45.18,13.5,402.1
+September,2016,Sep-16,United States,6.5,45.18,9.8,293.7
+September,2016,Sep-16,Venezuela,5.2,45.18,7.9,234.9
+September,2016,Sep-16,Kuwait,4.3,45.18,6.5,194.3
+September,2016,Sep-16,Russia,2.9,45.18,4.4,131
+September,2016,Sep-16,Others,0.4,45.18,0.6,18.1
+October,2016,Oct-16,Iraq,15,49.78,22.7,746.7
+October,2016,Oct-16,Saudi Arabia,14.6,49.78,22.1,726.4
+October,2016,Oct-16,Nigeria,11.1,49.78,16.8,552.6
+October,2016,Oct-16,United Arab Emirates,9.2,49.78,13.9,457.9
+October,2016,Oct-16,United States,6.7,49.78,10.1,333.3
+October,2016,Oct-16,Venezuela,5.4,49.78,8.2,268.8
+October,2016,Oct-16,Kuwait,4.4,49.78,6.7,219
+October,2016,Oct-16,Russia,3.1,49.78,4.7,154.3
+October,2016,Oct-16,Others,0.4,49.78,0.6,19.9
+November,2016,Nov-16,Iraq,14.1,45.66,21.4,644.3
+November,2016,Nov-16,Saudi Arabia,13.7,45.66,20.8,625.5
+November,2016,Nov-16,Nigeria,10.4,45.66,15.8,475
+November,2016,Nov-16,United Arab Emirates,8.6,45.66,13,392.7
+November,2016,Nov-16,United States,6.2,45.66,9.4,283.1
+November,2016,Nov-16,Venezuela,5,45.66,7.6,228.3
+November,2016,Nov-16,Kuwait,4.1,45.66,6.2,187.2
+November,2016,Nov-16,Russia,2.7,45.66,4.1,123.3
+November,2016,Nov-16,Others,0.4,45.66,0.6,18.3
+December,2016,Dec-16,Iraq,14.4,51.97,21.8,748.2
+December,2016,Dec-16,Saudi Arabia,14,51.97,21.2,727.6
+December,2016,Dec-16,Nigeria,10.6,51.97,16,550.7
+December,2016,Dec-16,United Arab Emirates,8.8,51.97,13.3,457.3
+December,2016,Dec-16,United States,6.4,51.97,9.7,332.4
+December,2016,Dec-16,Venezuela,5.1,51.97,7.7,265.3
+December,2016,Dec-16,Kuwait,4.2,51.97,6.4,218.1
+December,2016,Dec-16,Russia,2.8,51.97,4.2,145.4
+December,2016,Dec-16,Others,0.4,51.97,0.6,20.8
+January,2017,Jan-17,Iraq,14.7,52.5,22.2,771.8
+January,2017,Jan-17,Saudi Arabia,14.3,52.5,21.6,750.8
+January,2017,Jan-17,Nigeria,10.8,52.5,16.3,567
+January,2017,Jan-17,United Arab Emirates,9,52.5,13.6,472.5
+January,2017,Jan-17,United States,6.5,52.5,9.8,341.3
+January,2017,Jan-17,Venezuela,5.3,52.5,8,278.3
+January,2017,Jan-17,Kuwait,4.3,52.5,6.5,225.8
+January,2017,Jan-17,Russia,2.9,52.5,4.4,152.3
+January,2017,Jan-17,Others,0.4,52.5,0.6,21
+February,2017,Feb-17,Iraq,15,53.47,22.7,801.1
+February,2017,Feb-17,Saudi Arabia,14.6,53.47,22.1,780.1
+February,2017,Feb-17,Nigeria,11,53.47,16.6,588.2
+February,2017,Feb-17,United Arab Emirates,9.2,53.47,13.9,491.7
+February,2017,Feb-17,United States,6.7,53.47,10.1,358
+February,2017,Feb-17,Venezuela,5.4,53.47,8.2,288.7
+February,2017,Feb-17,Kuwait,4.4,53.47,6.7,235.3
+February,2017,Feb-17,Russia,3,53.47,4.5,160.4
+February,2017,Feb-17,Others,0.4,53.47,0.6,21.4
+March,2017,Mar-17,Iraq,14.2,49.33,21.5,700.4
+March,2017,Mar-17,Saudi Arabia,13.8,49.33,20.9,680.7
+March,2017,Mar-17,Nigeria,10.5,49.33,15.9,518
+March,2017,Mar-17,United Arab Emirates,8.7,49.33,13.2,428.8
+March,2017,Mar-17,United States,6.3,49.33,9.5,310.8
+March,2017,Mar-17,Venezuela,5.1,49.33,7.7,251.6
+March,2017,Mar-17,Kuwait,4.2,49.33,6.4,207
+March,2017,Mar-17,Russia,2.8,49.33,4.2,138.1
+March,2017,Mar-17,Others,0.4,49.33,0.6,19.7
+April,2017,Apr-17,Iraq,14.5,51.06,22,740.4
+April,2017,Apr-17,Saudi Arabia,14.1,51.06,21.3,720.1
+April,2017,Apr-17,Nigeria,10.7,51.06,16.2,546.5
+April,2017,Apr-17,United Arab Emirates,8.8,51.06,13.3,449.3
+April,2017,Apr-17,United States,6.4,51.06,9.7,326.8
+April,2017,Apr-17,Venezuela,5.2,51.06,7.9,265.5
+April,2017,Apr-17,Kuwait,4.3,51.06,6.5,219.6
+April,2017,Apr-17,Russia,2.9,51.06,4.4,148.1
+April,2017,Apr-17,Others,0.4,51.06,0.6,20.4
+May,2017,May-17,Iraq,15.3,48.48,23.2,742.2
+May,2017,May-17,Saudi Arabia,14.9,48.48,22.6,722.8
+May,2017,May-17,Nigeria,11.3,48.48,17.1,548.2
+May,2017,May-17,United Arab Emirates,9.3,48.48,14.1,451.1
+May,2017,May-17,United States,6.8,48.48,10.3,329.7
+May,2017,May-17,Venezuela,5.5,48.48,8.3,266.6
+May,2017,May-17,Kuwait,4.5,48.48,6.8,218.2
+May,2017,May-17,Russia,3.1,48.48,4.7,150.3
+May,2017,May-17,Others,0.4,48.48,0.6,19.4
+June,2017,Jun-17,Iraq,14.8,45.18,22.4,668.7
+June,2017,Jun-17,Saudi Arabia,14.4,45.18,21.8,650.6
+June,2017,Jun-17,Nigeria,10.9,45.18,16.5,492.5
+June,2017,Jun-17,United Arab Emirates,9,45.18,13.6,406.6
+June,2017,Jun-17,United States,6.5,45.18,9.8,293.7
+June,2017,Jun-17,Venezuela,5.3,45.18,8,239.5
+June,2017,Jun-17,Kuwait,4.4,45.18,6.7,198.8
+June,2017,Jun-17,Russia,3,45.18,4.5,135.5
+June,2017,Jun-17,Others,0.4,45.18,0.6,18.1
+July,2017,Jul-17,Iraq,15.1,46.63,22.9,704.1
+July,2017,Jul-17,Saudi Arabia,14.7,46.63,22.3,685.5
+July,2017,Jul-17,Nigeria,11.1,46.63,16.8,517.8
+July,2017,Jul-17,United Arab Emirates,9.2,46.63,13.9,428.9
+July,2017,Jul-17,United States,6.7,46.63,10.1,312.4
+July,2017,Jul-17,Venezuela,5.4,46.63,8.2,251.8
+July,2017,Jul-17,Kuwait,4.5,46.63,6.8,209.8
+July,2017,Jul-17,Russia,3.1,46.63,4.7,144.6
+July,2017,Jul-17,Others,0.4,46.63,0.6,18.7
+August,2017,Aug-17,Iraq,15.4,48.04,23.3,739.8
+August,2017,Aug-17,Saudi Arabia,15,48.04,22.7,720.6
+August,2017,Aug-17,Nigeria,11.3,48.04,17.1,543
+August,2017,Aug-17,United Arab Emirates,9.4,48.04,14.2,451.6
+August,2017,Aug-17,United States,6.8,48.04,10.3,326.7
+August,2017,Aug-17,Venezuela,5.5,48.04,8.3,264.2
+August,2017,Aug-17,Kuwait,4.6,48.04,7,220.9
+August,2017,Aug-17,Russia,3.2,48.04,4.8,153.7
+August,2017,Aug-17,Others,0.4,48.04,0.6,19.2
+September,2017,Sep-17,Iraq,14.9,49.82,22.6,742.5
+September,2017,Sep-17,Saudi Arabia,14.5,49.82,22,722.4
+September,2017,Sep-17,Nigeria,11,49.82,16.7,548
+September,2017,Sep-17,United Arab Emirates,9.1,49.82,13.8,453.4
+September,2017,Sep-17,United States,6.6,49.82,10,328.6
+September,2017,Sep-17,Venezuela,5.3,49.82,8,264
+September,2017,Sep-17,Kuwait,4.4,49.82,6.7,219.2
+September,2017,Sep-17,Russia,3,49.82,4.5,149.5
+September,2017,Sep-17,Others,0.4,49.82,0.6,19.9
+October,2017,Oct-17,Iraq,15.2,51.58,23,784
+October,2017,Oct-17,Saudi Arabia,14.8,51.58,22.4,763.4
+October,2017,Oct-17,Nigeria,11.2,51.58,17,578.1
+October,2017,Oct-17,United Arab Emirates,9.3,51.58,14.1,479.7
+October,2017,Oct-17,United States,6.8,51.58,10.3,350.7
+October,2017,Oct-17,Venezuela,5.5,51.58,8.3,283.7
+October,2017,Oct-17,Kuwait,4.5,51.58,6.8,232.1
+October,2017,Oct-17,Russia,3.1,51.58,4.7,159.9
+October,2017,Oct-17,Others,0.4,51.58,0.6,20.6
+November,2017,Nov-17,Iraq,15.5,56.64,23.5,877.5
+November,2017,Nov-17,Saudi Arabia,15.1,56.64,22.9,854.5
+November,2017,Nov-17,Nigeria,11.4,56.64,17.3,646.1
+November,2017,Nov-17,United Arab Emirates,9.5,56.64,14.4,537.7
+November,2017,Nov-17,United States,6.9,56.64,10.5,390.6
+November,2017,Nov-17,Venezuela,5.6,56.64,8.5,317.2
+November,2017,Nov-17,Kuwait,4.6,56.64,7,260.5
+November,2017,Nov-17,Russia,3.2,56.64,4.8,181.2
+November,2017,Nov-17,Others,0.4,56.64,0.6,22.7
+December,2017,Dec-17,Iraq,15.8,57.88,23.9,914.7
+December,2017,Dec-17,Saudi Arabia,15.4,57.88,23.3,891.5
+December,2017,Dec-17,Nigeria,11.6,57.88,17.6,671.2
+December,2017,Dec-17,United Arab Emirates,9.6,57.88,14.5,555.6
+December,2017,Dec-17,United States,7,57.88,10.6,405.2
+December,2017,Dec-17,Venezuela,5.7,57.88,8.6,329.9
+December,2017,Dec-17,Kuwait,4.7,57.88,7.1,272
+December,2017,Dec-17,Russia,3.3,57.88,5,191
+December,2017,Dec-17,Others,0.4,57.88,0.6,23.2
+January,2018,Jan-18,Iraq,16.1,63.7,24.4,1025.6
+January,2018,Jan-18,Saudi Arabia,15.7,63.7,23.8,1000.1
+January,2018,Jan-18,Nigeria,11.8,63.7,17.9,752.1
+January,2018,Jan-18,United Arab Emirates,9.8,63.7,14.8,624.3
+January,2018,Jan-18,United States,7.1,63.7,10.8,452.1
+January,2018,Jan-18,Venezuela,5.8,63.7,8.8,369.3
+January,2018,Jan-18,Kuwait,4.8,63.7,7.3,305.8
+January,2018,Jan-18,Russia,3.4,63.7,5.2,216.6
+January,2018,Jan-18,Others,0.4,63.7,0.6,25.5
+February,2018,Feb-18,Iraq,16.4,62.23,24.8,1020.6
+February,2018,Feb-18,Saudi Arabia,16,62.23,24.2,995.7
+February,2018,Feb-18,Nigeria,12,62.23,18.2,747
+February,2018,Feb-18,United Arab Emirates,10,62.23,15.1,622.3
+February,2018,Feb-18,United States,7.2,62.23,10.9,448.1
+February,2018,Feb-18,Venezuela,5.9,62.23,8.9,367.2
+February,2018,Feb-18,Kuwait,4.9,62.23,7.4,304.9
+February,2018,Feb-18,Russia,3.5,62.23,5.3,217.8
+February,2018,Feb-18,Others,0.4,62.23,0.6,24.9
+March,2018,Mar-18,Iraq,16.7,62.73,25.3,1048
+March,2018,Mar-18,Saudi Arabia,16.3,62.73,24.7,1022.6
+March,2018,Mar-18,Nigeria,12.2,62.73,18.5,765.7
+March,2018,Mar-18,United Arab Emirates,10.2,62.73,15.4,639.6
+March,2018,Mar-18,United States,7.4,62.73,11.2,464.2
+March,2018,Mar-18,Venezuela,6,62.73,9.1,376.4
+March,2018,Mar-18,Kuwait,5,62.73,7.6,313.7
+March,2018,Mar-18,Russia,3.6,62.73,5.5,225.8
+March,2018,Mar-18,Others,0.4,62.73,0.6,25.1
+April,2018,Apr-18,Iraq,17,66.25,25.8,1126.3
+April,2018,Apr-18,Saudi Arabia,16.6,66.25,25.2,1100
+April,2018,Apr-18,Nigeria,12.4,66.25,18.8,821.5
+April,2018,Apr-18,United Arab Emirates,10.4,66.25,15.8,689
+April,2018,Apr-18,United States,7.5,66.25,11.4,496.9
+April,2018,Apr-18,Venezuela,6.1,66.25,9.3,404.1
+April,2018,Apr-18,Kuwait,5.1,66.25,7.7,337.9
+April,2018,Apr-18,Russia,3.7,66.25,5.6,245.1
+April,2018,Apr-18,Others,0.4,66.25,0.6,26.5
+May,2018,May-18,Iraq,17.3,69.98,26.2,1211.1
+May,2018,May-18,Saudi Arabia,16.9,69.98,25.6,1182.7
+May,2018,May-18,Nigeria,12.6,69.98,19.1,881.9
+May,2018,May-18,United Arab Emirates,10.6,69.98,16,741.6
+May,2018,May-18,United States,7.7,69.98,11.7,539.3
+May,2018,May-18,Venezuela,6.2,69.98,9.4,433.9
+May,2018,May-18,Kuwait,5.2,69.98,7.9,363.9
+May,2018,May-18,Russia,3.8,69.98,5.8,266
+May,2018,May-18,Others,0.4,69.98,0.6,28
+June,2018,Jun-18,Iraq,17.6,67.87,26.7,1194.5
+June,2018,Jun-18,Saudi Arabia,17.1,67.87,25.9,1160.7
+June,2018,Jun-18,Nigeria,12.8,67.87,19.4,869.4
+June,2018,Jun-18,United Arab Emirates,10.8,67.87,16.4,733
+June,2018,Jun-18,United States,7.9,67.87,12,536.2
+June,2018,Jun-18,Venezuela,6.3,67.87,9.6,427.6
+June,2018,Jun-18,Kuwait,5.3,67.87,8,359.7
+June,2018,Jun-18,Russia,3.9,67.87,5.9,264.7
+June,2018,Jun-18,Others,0.4,67.87,0.6,27.1
+July,2018,Jul-18,Iraq,18,70.98,27.3,1277.6
+July,2018,Jul-18,Saudi Arabia,17.5,70.98,26.5,1242.2
+July,2018,Jul-18,Nigeria,13.1,70.98,19.9,929.9
+July,2018,Jul-18,United Arab Emirates,11,70.98,16.7,780.8
+July,2018,Jul-18,United States,8.1,70.98,12.3,575
+July,2018,Jul-18,Venezuela,6.4,70.98,9.7,454.3
+July,2018,Jul-18,Kuwait,5.4,70.98,8.2,383.3
+July,2018,Jul-18,Russia,4,70.98,6.1,283.9
+July,2018,Jul-18,Others,0.4,70.98,0.6,28.4
+August,2018,Aug-18,Iraq,18.3,68.06,27.7,1245.5
+August,2018,Aug-18,Saudi Arabia,17.8,68.06,27,1211.5
+August,2018,Aug-18,Nigeria,13.3,68.06,20.2,905.4
+August,2018,Aug-18,United Arab Emirates,11.2,68.06,17,762.3
+August,2018,Aug-18,United States,8.2,68.06,12.4,558.1
+August,2018,Aug-18,Venezuela,6.5,68.06,9.8,442.4
+August,2018,Aug-18,Kuwait,5.5,68.06,8.3,374.3
+August,2018,Aug-18,Russia,4.1,68.06,6.2,278.8
+August,2018,Aug-18,Others,0.4,68.06,0.6,27.2
+September,2018,Sep-18,Iraq,18.7,70.23,28.3,1313.3
+September,2018,Sep-18,Saudi Arabia,18.2,70.23,27.6,1278.2
+September,2018,Sep-18,Nigeria,13.6,70.23,20.6,955.1
+September,2018,Sep-18,United Arab Emirates,11.4,70.23,17.3,800.6
+September,2018,Sep-18,United States,8.3,70.23,12.6,583
+September,2018,Sep-18,Venezuela,6.6,70.23,10,463.5
+September,2018,Sep-18,Kuwait,5.6,70.23,8.5,393.3
+September,2018,Sep-18,Russia,4.2,70.23,6.4,294.97
+September,2018,Sep-18,Others,0.4,70.23,0.6,28.1
+October,2018,Oct-18,Iraq,19.1,70.75,28.9,1351.3
+October,2018,Oct-18,Saudi Arabia,18.6,70.75,28.2,1316
+October,2018,Oct-18,Nigeria,13.9,70.75,21.1,983.9
+October,2018,Oct-18,United Arab Emirates,11.7,70.75,17.7,827.8
+October,2018,Oct-18,United States,8.5,70.75,12.9,601.4
+October,2018,Oct-18,Venezuela,6.8,70.75,10.3,481.1
+October,2018,Oct-18,Kuwait,5.7,70.75,8.6,403.3
+October,2018,Oct-18,Russia,4.3,70.75,6.5,304.2
+October,2018,Oct-18,Others,0.4,70.75,0.6,28.3
+November,2018,Nov-18,Iraq,17.2,56.96,26.1,980.5
+November,2018,Nov-18,Saudi Arabia,16.8,56.96,25.4,956.9
+November,2018,Nov-18,Nigeria,12.4,56.96,18.8,706.3
+November,2018,Nov-18,United Arab Emirates,10.4,56.96,15.8,592.4
+November,2018,Nov-18,United States,7.5,56.96,11.4,427.2
+November,2018,Nov-18,Venezuela,6.1,56.96,9.2,347.5
+November,2018,Nov-18,Kuwait,5.1,56.96,7.7,290.9
+November,2018,Nov-18,Russia,3.7,56.96,5.6,210.8
+November,2018,Nov-18,Others,0.4,56.96,0.6,22.8
+December,2018,Dec-18,Iraq,17.5,49.52,26.5,866.1
+December,2018,Dec-18,Saudi Arabia,17.1,49.52,25.9,846.8
+December,2018,Dec-18,Nigeria,12.6,49.52,19.1,624
+December,2018,Dec-18,United Arab Emirates,10.6,49.52,16,524.7
+December,2018,Dec-18,United States,7.7,49.52,11.7,381.5
+December,2018,Dec-18,Venezuela,6.2,49.52,9.4,306.8
+December,2018,Dec-18,Kuwait,5.2,49.52,7.9,257.5
+December,2018,Dec-18,Russia,3.8,49.52,5.8,188.2
+December,2018,Dec-18,Others,0.4,49.52,0.6,19.8
+January,2019,Jan-19,Iraq,17.8,51.38,27,915.4
+January,2019,Jan-19,Saudi Arabia,17.4,51.38,26.3,894
+January,2019,Jan-19,Nigeria,12.8,51.38,19.4,657.7
+January,2019,Jan-19,United Arab Emirates,10.7,51.38,16.2,549.8
+January,2019,Jan-19,United States,7.8,51.38,11.8,400.6
+January,2019,Jan-19,Venezuela,6.3,51.38,9.5,323.9
+January,2019,Jan-19,Kuwait,5.3,51.38,8,272.3
+January,2019,Jan-19,Russia,3.9,51.38,5.9,200.6
+January,2019,Jan-19,Others,0.4,51.38,0.6,20.6
+February,2019,Feb-19,Iraq,18.1,54.95,27.4,995
+February,2019,Feb-19,Saudi Arabia,17.6,54.95,26.7,967.1
+February,2019,Feb-19,Nigeria,13,54.95,19.7,713.4
+February,2019,Feb-19,United Arab Emirates,10.9,54.95,16.5,598.9
+February,2019,Feb-19,United States,7.9,54.95,12,434.1
+February,2019,Feb-19,Venezuela,6.4,54.95,9.7,351.7
+February,2019,Feb-19,Kuwait,5.4,54.95,8.2,296.5
+February,2019,Feb-19,Russia,4,54.95,6.1,219.8
+February,2019,Feb-19,Others,0.4,54.95,0.6,22
+March,2019,Mar-19,Iraq,18.4,58.15,27.9,1069.6
+March,2019,Mar-19,Saudi Arabia,17.9,58.15,27.1,1040.8
+March,2019,Mar-19,Nigeria,13.2,58.15,20,767.6
+March,2019,Mar-19,United Arab Emirates,11.1,58.15,16.8,645.5
+March,2019,Mar-19,United States,8,58.15,12.1,465.2
+March,2019,Mar-19,Venezuela,6.5,58.15,9.8,378
+March,2019,Mar-19,Kuwait,5.5,58.15,8.3,319.3
+March,2019,Mar-19,Russia,4.1,58.15,6.2,238.4
+March,2019,Mar-19,Others,0.4,58.15,0.6,23.3
+April,2019,Apr-19,Iraq,18.8,63.86,28.5,1200.5
+April,2019,Apr-19,Saudi Arabia,18.3,63.86,27.7,1168.7
+April,2019,Apr-19,Nigeria,13.5,63.86,20.4,862.1
+April,2019,Apr-19,United Arab Emirates,11.3,63.86,17.1,721.4
+April,2019,Apr-19,United States,8.2,63.86,12.4,523.7
+April,2019,Apr-19,Venezuela,6.6,63.86,10,421.5
+April,2019,Apr-19,Kuwait,5.6,63.86,8.5,357.6
+April,2019,Apr-19,Russia,4.2,63.86,6.4,268.2
+April,2019,Apr-19,Others,0.4,63.86,0.6,25.5
+May,2019,May-19,Iraq,19.1,60.83,28.9,1161.9
+May,2019,May-19,Saudi Arabia,18.6,60.83,28.2,1131.4
+May,2019,May-19,Nigeria,13.7,60.83,20.7,833.4
+May,2019,May-19,United Arab Emirates,11.5,60.83,17.4,700
+May,2019,May-19,United States,8.3,60.83,12.6,504.9
+May,2019,May-19,Venezuela,6.7,60.83,10.1,407.4
+May,2019,May-19,Kuwait,5.7,60.83,8.6,346.7
+May,2019,May-19,Russia,4.3,60.83,6.5,261.6
+May,2019,May-19,Others,0.4,60.83,0.6,24.3
+June,2019,Jun-19,Iraq,19.5,54.66,29.5,1065.9
+June,2019,Jun-19,Saudi Arabia,19,54.66,28.8,1038.5
+June,2019,Jun-19,Nigeria,14,54.66,21.2,765.2
+June,2019,Jun-19,United Arab Emirates,11.8,54.66,17.9,645.2
+June,2019,Jun-19,United States,8.5,54.66,12.9,464.6
+June,2019,Jun-19,Venezuela,6.8,54.66,10.3,371.7
+June,2019,Jun-19,Kuwait,5.8,54.66,8.8,317
+June,2019,Jun-19,Russia,4.4,54.66,6.7,240.5
+June,2019,Jun-19,Others,0.4,54.66,0.6,21.9
+July,2019,Jul-19,Iraq,19.9,57.35,30.1,1141.3
+July,2019,Jul-19,Saudi Arabia,19.4,57.35,29.4,1112.3
+July,2019,Jul-19,Nigeria,14.3,57.35,21.6,820.1
+July,2019,Jul-19,United Arab Emirates,12,57.35,18.2,688.2
+July,2019,Jul-19,United States,8.7,57.35,13.2,498.7
+July,2019,Jul-19,Venezuela,7,57.35,10.6,401.5
+July,2019,Jul-19,Kuwait,5.9,57.35,8.9,338.4
+July,2019,Jul-19,Russia,4.5,57.35,6.8,258.1
+July,2019,Jul-19,Others,0.4,57.35,0.6,22.9
+August,2019,Aug-19,Iraq,20.3,54.81,30.7,1112.5
+August,2019,Aug-19,Saudi Arabia,19.8,54.81,30,1085.2
+August,2019,Aug-19,Nigeria,14.6,54.81,22.1,799.8
+August,2019,Aug-19,United Arab Emirates,12.2,54.81,18.5,668.7
+August,2019,Aug-19,United States,8.9,54.81,13.5,488
+August,2019,Aug-19,Venezuela,7.1,54.81,10.8,389
+August,2019,Aug-19,Kuwait,6,54.81,9.1,328.9
+August,2019,Aug-19,Russia,4.6,54.81,7,252
+August,2019,Aug-19,Others,0.4,54.81,0.6,21.9
+September,2019,Sep-19,Iraq,20.7,56.95,31.3,1178.9
+September,2019,Sep-19,Saudi Arabia,20.1,56.95,30.4,1144.7
+September,2019,Sep-19,Nigeria,14.9,56.95,22.6,848.6
+September,2019,Sep-19,United Arab Emirates,12.5,56.95,18.9,712.4
+September,2019,Sep-19,United States,9.1,56.95,13.8,518.3
+September,2019,Sep-19,Venezuela,7.2,56.95,10.9,410
+September,2019,Sep-19,Kuwait,6.1,56.95,9.2,347.6
+September,2019,Sep-19,Russia,4.7,56.95,7.1,267.7
+September,2019,Sep-19,Others,0.4,56.95,0.6,22.8
+October,2019,Oct-19,Iraq,21.1,53.96,31.9,1138.6
+October,2019,Oct-19,Saudi Arabia,20.5,53.96,31,1106.5
+October,2019,Oct-19,Nigeria,15.2,53.96,23,820.2
+October,2019,Oct-19,United Arab Emirates,12.8,53.96,19.4,690.7
+October,2019,Oct-19,United States,9.3,53.96,14.1,502
+October,2019,Oct-19,Venezuela,7.4,53.96,11.2,399.3
+October,2019,Oct-19,Kuwait,6.2,53.96,9.4,334.6
+October,2019,Oct-19,Russia,4.8,53.96,7.3,259
+October,2019,Oct-19,Others,0.4,53.96,0.6,21.6
+November,2019,Nov-19,Iraq,21.5,57.03,32.5,1226.1
+November,2019,Nov-19,Saudi Arabia,20.9,57.03,31.6,1192
+November,2019,Nov-19,Nigeria,15.5,57.03,23.5,884
+November,2019,Nov-19,United Arab Emirates,13,57.03,19.7,741.4
+November,2019,Nov-19,United States,9.5,57.03,14.4,541.8
+November,2019,Nov-19,Venezuela,7.5,57.03,11.3,427.7
+November,2019,Nov-19,Kuwait,6.3,57.03,9.5,359.3
+November,2019,Nov-19,Russia,4.9,57.03,7.4,279.4
+November,2019,Nov-19,Others,0.4,57.03,0.6,22.8
+December,2019,Dec-19,Iraq,22,59.88,33.3,1317.4
+December,2019,Dec-19,Saudi Arabia,21.4,59.88,32.4,1281.4
+December,2019,Dec-19,Nigeria,15.8,59.88,23.9,946.1
+December,2019,Dec-19,United Arab Emirates,13.3,59.88,20.1,796.5
+December,2019,Dec-19,United States,9.7,59.88,14.7,581
+December,2019,Dec-19,Venezuela,7.8,59.88,11.8,466.9
+December,2019,Dec-19,Kuwait,6.4,59.88,9.7,383.2
+December,2019,Dec-19,Russia,5,59.88,7.6,299.4
+December,2019,Dec-19,Others,0.4,59.88,0.6,23.9
+January,2020,Jan-20,Iraq,22.3,57.52,33.8,1282.7
+January,2020,Jan-20,Saudi Arabia,21.7,57.52,32.9,1248.8
+January,2020,Jan-20,Nigeria,16,57.52,24.2,920.3
+January,2020,Jan-20,United Arab Emirates,13.5,57.52,20.5,776.5
+January,2020,Jan-20,United States,9.8,57.52,14.8,563.7
+January,2020,Jan-20,Venezuela,7.9,57.52,12,454.4
+January,2020,Jan-20,Kuwait,6.5,57.52,9.8,373.9
+January,2020,Jan-20,Russia,5.1,57.52,7.7,293.5
+January,2020,Jan-20,Others,0.4,57.52,0.6,23
+February,2020,Feb-20,Iraq,22.7,50.54,34.4,1147.3
+February,2020,Feb-20,Saudi Arabia,22.1,50.54,33.5,1116.9
+February,2020,Feb-20,Nigeria,16.3,50.54,24.7,823.8
+February,2020,Feb-20,United Arab Emirates,13.7,50.54,20.8,692.4
+February,2020,Feb-20,United States,10,50.54,15.1,505.4
+February,2020,Feb-20,Venezuela,8,50.54,12.1,404.3
+February,2020,Feb-20,Kuwait,6.6,50.54,10,333.6
+February,2020,Feb-20,Russia,5.2,50.54,7.9,262.8
+February,2020,Feb-20,Others,0.4,50.54,0.6,20.2
+March,2020,Mar-20,Iraq,23.1,29.21,35,674.6
+March,2020,Mar-20,Saudi Arabia,22.5,29.21,34.1,656.7
+March,2020,Mar-20,Nigeria,16.6,29.21,25.2,484.9
+March,2020,Mar-20,United Arab Emirates,14,29.21,21.2,408.9
+March,2020,Mar-20,United States,10.2,29.21,15.5,297.9
+March,2020,Mar-20,Venezuela,8.2,29.21,12.4,239.3
+March,2020,Mar-20,Kuwait,6.7,29.21,10.1,195.5
+March,2020,Mar-20,Russia,5.3,29.21,8,154.8
+March,2020,Mar-20,Others,0.4,29.21,0.6,11.7
+April,2020,Apr-20,Iraq,23.5,16.55,35.6,388.9
+April,2020,Apr-20,Saudi Arabia,22.9,16.55,34.7,378.9
+April,2020,Apr-20,Nigeria,16.9,16.55,25.6,279.7
+April,2020,Apr-20,United Arab Emirates,14.2,16.55,21.5,235
+April,2020,Apr-20,United States,10.3,16.55,15.6,170.5
+April,2020,Apr-20,Venezuela,8.3,16.55,12.6,137.4
+April,2020,Apr-20,Kuwait,6.8,16.55,10.3,112.5
+April,2020,Apr-20,Russia,5.4,16.55,8.2,89.4
+April,2020,Apr-20,Others,0.4,16.55,0.6,6.6
+May,2020,May-20,Iraq,24,28.56,36.4,685.4
+May,2020,May-20,Saudi Arabia,23.3,28.56,35.3,665.4
+May,2020,May-20,Nigeria,17.2,28.56,26.1,491.2
+May,2020,May-20,United Arab Emirates,14.5,28.56,22,414.1
+May,2020,May-20,United States,10.5,28.56,15.9,300
+May,2020,May-20,Venezuela,8.5,28.56,12.9,242.8
+May,2020,May-20,Kuwait,7,28.56,10.6,200
+May,2020,May-20,Russia,5.5,28.56,8.3,157.1
+May,2020,May-20,Others,0.4,28.56,0.6,11.4
+June,2020,Jun-20,Iraq,24.4,38.31,37,935.2
+June,2020,Jun-20,Saudi Arabia,23.7,38.31,35.9,907.7
+June,2020,Jun-20,Nigeria,17.5,38.31,26.5,670.4
+June,2020,Jun-20,United Arab Emirates,14.7,38.31,22.3,563.4
+June,2020,Jun-20,United States,10.7,38.31,16.2,409.9
+June,2020,Jun-20,Venezuela,8.6,38.31,13,329.5
+June,2020,Jun-20,Kuwait,7.1,38.31,10.8,272
+June,2020,Jun-20,Russia,5.6,38.31,8.5,214.5
+June,2020,Jun-20,Others,0.4,38.31,0.6,15.3
+July,2020,Jul-20,Iraq,24.8,40.71,37.6,1010
+July,2020,Jul-20,Saudi Arabia,24.1,40.71,36.5,981.4
+July,2020,Jul-20,Nigeria,17.8,40.71,27,725
+July,2020,Jul-20,United Arab Emirates,15,40.71,22.7,610.7
+July,2020,Jul-20,United States,11,40.71,16.7,447.8
+July,2020,Jul-20,Venezuela,8.9,40.71,13.5,362.3
+July,2020,Jul-20,Kuwait,7.2,40.71,10.9,293.1
+July,2020,Jul-20,Russia,5.7,40.71,8.6,232.1
+July,2020,Jul-20,Others,0.4,40.71,0.6,16.3
+August,2020,Aug-20,Iraq,25.2,42.34,38.2,1066.6
+August,2020,Aug-20,Saudi Arabia,24.5,42.34,37.1,1037.3
+August,2020,Aug-20,Nigeria,18.1,42.34,27.4,766.5
+August,2020,Aug-20,United Arab Emirates,15.2,42.34,23,643.6
+August,2020,Aug-20,United States,11.2,42.34,17,474.2
+August,2020,Aug-20,Venezuela,9,42.34,13.6,380.9
+August,2020,Aug-20,Kuwait,7.3,42.34,11.1,309.1
+August,2020,Aug-20,Russia,5.8,42.34,8.8,245.6
+August,2020,Aug-20,Others,0.4,42.34,0.6,16.9
+September,2020,Sep-20,Iraq,25.6,39.63,38.8,1014.5
+September,2020,Sep-20,Saudi Arabia,24.9,39.63,37.7,986.8
+September,2020,Sep-20,Nigeria,18.4,39.63,27.9,729.2
+September,2020,Sep-20,United Arab Emirates,15.5,39.63,23.5,614.3
+September,2020,Sep-20,United States,11.4,39.63,17.3,451.8
+September,2020,Sep-20,Venezuela,9.1,39.63,13.8,360.6
+September,2020,Sep-20,Kuwait,7.4,39.63,11.2,293.3
+September,2020,Sep-20,Russia,5.9,39.63,8.9,233.8
+September,2020,Sep-20,Others,0.4,39.63,0.6,15.9
+October,2020,Oct-20,Iraq,26,40.22,39.4,1045.7
+October,2020,Oct-20,Saudi Arabia,25.3,40.22,38.3,1017.6
+October,2020,Oct-20,Nigeria,18.7,40.22,28.3,751.9
+October,2020,Oct-20,United Arab Emirates,15.8,40.22,23.9,635.5
+October,2020,Oct-20,United States,11.6,40.22,17.6,466.4
+October,2020,Oct-20,Venezuela,9.3,40.22,14.1,373.8
+October,2020,Oct-20,Kuwait,7.5,40.22,11.4,301.7
+October,2020,Oct-20,Russia,6,40.22,9.1,241.3
+October,2020,Oct-20,Others,0.4,40.22,0.6,16.1
+November,2020,Nov-20,Iraq,26.4,42.7,40,1126.9
+November,2020,Nov-20,Saudi Arabia,25.7,42.7,38.9,1097.4
+November,2020,Nov-20,Nigeria,19,42.7,28.8,811.3
+November,2020,Nov-20,United Arab Emirates,16,42.7,24.2,682.4
+November,2020,Nov-20,United States,11.8,42.7,17.9,503.9
+November,2020,Nov-20,Venezuela,9.5,42.7,14.4,405.7
+November,2020,Nov-20,Kuwait,7.6,42.7,11.5,324.5
+November,2020,Nov-20,Russia,6.1,42.7,9.2,260.5
+November,2020,Nov-20,Others,0.4,42.7,0.6,17.1
+December,2020,Dec-20,Iraq,26.8,47.02,40.6,1260.1
+December,2020,Dec-20,Saudi Arabia,26.1,47.02,39.5,1227.1
+December,2020,Dec-20,Nigeria,19.3,47.02,29.2,907.7
+December,2020,Dec-20,United Arab Emirates,16.3,47.02,24.7,766.4
+December,2020,Dec-20,United States,12,47.02,18.2,564.2
+December,2020,Dec-20,Venezuela,9.7,47.02,14.7,456.1
+December,2020,Dec-20,Kuwait,7.8,47.02,11.8,366.6
+December,2020,Dec-20,Russia,6.2,47.02,9.4,291.5
+December,2020,Dec-20,Others,0.4,47.02,0.6,18.8
+January,2021,Jan-21,Iraq,27.2,52.14,41.2,1418.2
+January,2021,Jan-21,Saudi Arabia,26.5,52.14,40.1,1381.7
+January,2021,Jan-21,Nigeria,19.6,52.14,29.7,1021.9
+January,2021,Jan-21,United Arab Emirates,16.5,52.14,25,860.3
+January,2021,Jan-21,United States,12.2,52.14,18.5,636.3
+January,2021,Jan-21,Venezuela,9.8,52.14,14.8,511
+January,2021,Jan-21,Kuwait,7.9,52.14,12,411.9
+January,2021,Jan-21,Russia,6.3,52.14,9.5,328.5
+January,2021,Jan-21,Others,0.4,52.14,0.6,20.9
+February,2021,Feb-21,Iraq,27.6,59.04,41.8,1629.5
+February,2021,Feb-21,Saudi Arabia,26.9,59.04,40.7,1588.8
+February,2021,Feb-21,Nigeria,19.9,59.04,30.1,1174.9
+February,2021,Feb-21,United Arab Emirates,16.8,59.04,25.4,991.9
+February,2021,Feb-21,United States,12.4,59.04,18.8,732.1
+February,2021,Feb-21,Venezuela,10,59.04,15.1,590.4
+February,2021,Feb-21,Kuwait,8,59.04,12.1,472.3
+February,2021,Feb-21,Russia,6.4,59.04,9.7,377.9
+February,2021,Feb-21,Others,0.4,59.04,0.6,23.6
+March,2021,Mar-21,Iraq,15.8,62.33,24,985
+March,2021,Mar-21,Saudi Arabia,10.6,62.33,16,660.7
+March,2021,Mar-21,Nigeria,8,62.33,12.1,498.6
+March,2021,Mar-21,United Arab Emirates,9.9,62.33,15,617.1
+March,2021,Mar-21,United States,6.6,62.33,10,411.4
+March,2021,Mar-21,Venezuela,5.3,62.33,8,330.6
+March,2021,Mar-21,Kuwait,4.9,62.33,7.4,305.4
+March,2021,Mar-21,Russia,1.7,62.33,2.5,105.9
+March,2021,Mar-21,Others,3.2,62.33,4.8,199.5
+April,2021,Apr-21,Iraq,28,61.43,42.4,1720
+April,2021,Apr-21,Saudi Arabia,27.3,61.43,41.4,1677
+April,2021,Apr-21,Nigeria,20.2,61.43,30.6,1240.9
+April,2021,Apr-21,United Arab Emirates,17,61.43,25.8,1044.3
+April,2021,Apr-21,United States,12.6,61.43,19.1,774
+April,2021,Apr-21,Venezuela,10.2,61.43,15.5,626.6
+April,2021,Apr-21,Kuwait,8.1,61.43,12.3,497.6
+April,2021,Apr-21,Russia,6.5,61.43,9.8,399.3
+April,2021,Apr-21,Others,0.8,61.43,1.2,49.1
+May,2021,May-21,Iraq,28,65.17,42.4,1824.8
+May,2021,May-21,Saudi Arabia,27.3,65.17,41.4,1779.1
+May,2021,May-21,Nigeria,20.2,65.17,30.6,1316.4
+May,2021,May-21,United Arab Emirates,17,65.17,25.8,1107.9
+May,2021,May-21,United States,12.6,65.17,19.1,821.1
+May,2021,May-21,Venezuela,10.2,65.17,15.5,664.7
+May,2021,May-21,Kuwait,8.1,65.17,12.3,527.9
+May,2021,May-21,Russia,6.5,65.17,9.8,423.6
+May,2021,May-21,Others,0.8,65.17,1.2,52.1
+June,2021,Jun-21,Iraq,28,71.38,42.4,1998.6
+June,2021,Jun-21,Saudi Arabia,27.3,71.38,41.4,1948.7
+June,2021,Jun-21,Nigeria,20.2,71.38,30.6,1441.9
+June,2021,Jun-21,United Arab Emirates,17,71.38,25.8,1213.5
+June,2021,Jun-21,United States,12.6,71.38,19.1,899.4
+June,2021,Jun-21,Venezuela,10.2,71.38,15.5,728.1
+June,2021,Jun-21,Kuwait,8.1,71.38,12.3,578.2
+June,2021,Jun-21,Russia,6.5,71.38,9.8,464
+June,2021,Jun-21,Others,0.8,71.38,1.2,57.1
+July,2021,Jul-21,Iraq,28,73.95,42.4,2070.6
+July,2021,Jul-21,Saudi Arabia,27.3,73.95,41.4,2018.8
+July,2021,Jul-21,Nigeria,20.2,73.95,30.6,1493.8
+July,2021,Jul-21,United Arab Emirates,17,73.95,25.8,1257.2
+July,2021,Jul-21,United States,12.6,73.95,19.1,931.8
+July,2021,Jul-21,Venezuela,10.2,73.95,15.5,754.3
+July,2021,Jul-21,Kuwait,8.1,73.95,12.3,599
+July,2021,Jul-21,Russia,6.5,73.95,9.8,480.7
+July,2021,Jul-21,Others,0.8,73.95,1.2,59.2
+August,2021,Aug-21,Iraq,28,68.5,42.4,1918
+August,2021,Aug-21,Saudi Arabia,27.3,68.5,41.4,1870
+August,2021,Aug-21,Nigeria,20.2,68.5,30.6,1383.7
+August,2021,Aug-21,United Arab Emirates,17,68.5,25.8,1164.5
+August,2021,Aug-21,United States,12.6,68.5,19.1,863.1
+August,2021,Aug-21,Venezuela,10.2,68.5,15.5,698.7
+August,2021,Aug-21,Kuwait,8.1,68.5,12.3,554.9
+August,2021,Aug-21,Russia,6.5,68.5,9.8,445.2
+August,2021,Aug-21,Others,0.8,68.5,1.2,54.8
+September,2021,Sep-21,Iraq,28,71.65,42.4,2006.2
+September,2021,Sep-21,Saudi Arabia,27.3,71.65,41.4,1956
+September,2021,Sep-21,Nigeria,20.2,71.65,30.6,1447.3
+September,2021,Sep-21,United Arab Emirates,17,71.65,25.8,1218.1
+September,2021,Sep-21,United States,12.6,71.65,19.1,902.8
+September,2021,Sep-21,Venezuela,10.2,71.65,15.5,730.8
+September,2021,Sep-21,Kuwait,8.1,71.65,12.3,580.4
+September,2021,Sep-21,Russia,6.5,71.65,9.8,465.7
+September,2021,Sep-21,Others,0.8,71.65,1.2,57.3
+October,2021,Oct-21,Iraq,28,81.22,42.4,2274.2
+October,2021,Oct-21,Saudi Arabia,27.3,81.22,41.4,2217.3
+October,2021,Oct-21,Nigeria,20.2,81.22,30.6,1640.6
+October,2021,Oct-21,United Arab Emirates,17,81.22,25.8,1380.7
+October,2021,Oct-21,United States,12.6,81.22,19.1,1023.4
+October,2021,Oct-21,Venezuela,10.2,81.22,15.5,828.4
+October,2021,Oct-21,Kuwait,8.1,81.22,12.3,657.9
+October,2021,Oct-21,Russia,6.5,81.22,9.8,527.9
+October,2021,Oct-21,Others,0.8,81.22,1.2,65
+November,2021,Nov-21,Iraq,28,79.15,42.4,2216.2
+November,2021,Nov-21,Saudi Arabia,27.3,79.15,41.4,2160.8
+November,2021,Nov-21,Nigeria,20.2,79.15,30.6,1598.8
+November,2021,Nov-21,United Arab Emirates,17,79.15,25.8,1345.6
+November,2021,Nov-21,United States,12.6,79.15,19.1,997.3
+November,2021,Nov-21,Venezuela,10.2,79.15,15.5,807.3
+November,2021,Nov-21,Kuwait,8.1,79.15,12.3,641.1
+November,2021,Nov-21,Russia,6.5,79.15,9.8,514.5
+November,2021,Nov-21,Others,0.8,79.15,1.2,63.3
+December,2021,Dec-21,Iraq,28,75.21,42.4,2105.9
+December,2021,Dec-21,Saudi Arabia,27.3,75.21,41.4,2053.2
+December,2021,Dec-21,Nigeria,20.2,75.21,30.6,1519.2
+December,2021,Dec-21,United Arab Emirates,17,75.21,25.8,1278.6
+December,2021,Dec-21,United States,12.6,75.21,19.1,947.6
+December,2021,Dec-21,Venezuela,10.2,75.21,15.5,767.1
+December,2021,Dec-21,Kuwait,8.1,75.21,12.3,609.2
+December,2021,Dec-21,Russia,6.5,75.21,9.8,488.9
+December,2021,Dec-21,Others,0.8,75.21,1.2,60.2
+January,2022,Jan-22,Russia,8.528,90,6,767.56
+January,2022,Jan-22,Iraq,39.799,90,28,3581.95
+January,2022,Jan-22,Saudi Arabia,34.114,90,24,3070.24
+January,2022,Jan-22,UAE,17.057,90,12,1535.12
+January,2022,Jan-22,USA,4.264,90,3,383.78
+January,2022,Jan-22,Others,38.378,90,27,3454.02
+February,2022,Feb-22,Russia,8.528,90,6,767.56
+February,2022,Feb-22,Iraq,39.799,90,28,3581.95
+February,2022,Feb-22,Saudi Arabia,34.114,90,24,3070.24
+February,2022,Feb-22,UAE,17.057,90,12,1535.12
+February,2022,Feb-22,USA,4.264,90,3,383.78
+February,2022,Feb-22,Others,38.378,90,27,3454.02
+March,2022,Mar-22,Russia,8.528,90,6,767.56
+March,2022,Mar-22,Iraq,39.799,90,28,3581.95
+March,2022,Mar-22,Saudi Arabia,34.114,90,24,3070.24
+March,2022,Mar-22,UAE,17.057,90,12,1535.12
+March,2022,Mar-22,USA,4.264,90,3,383.78
+March,2022,Mar-22,Others,38.378,90,27,3454.02
+April,2022,Apr-22,Russia,8.528,90,6,767.56
+April,2022,Apr-22,Iraq,39.799,90,28,3581.95
+April,2022,Apr-22,Saudi Arabia,34.114,90,24,3070.24
+April,2022,Apr-22,UAE,17.057,90,12,1535.12
+April,2022,Apr-22,USA,4.264,90,3,383.78
+April,2022,Apr-22,Others,38.378,90,27,3454.02
+May,2022,May-22,Russia,8.528,90,6,767.56
+May,2022,May-22,Iraq,39.799,90,28,3581.95
+May,2022,May-22,Saudi Arabia,34.114,90,24,3070.24
+May,2022,May-22,UAE,17.057,90,12,1535.12
+May,2022,May-22,USA,4.264,90,3,383.78
+May,2022,May-22,Others,38.378,90,27,3454.02
+June,2022,Jun-22,Russia,8.528,90,6,767.56
+June,2022,Jun-22,Iraq,39.799,90,28,3581.95
+June,2022,Jun-22,Saudi Arabia,34.114,90,24,3070.24
+June,2022,Jun-22,UAE,17.057,90,12,1535.12
+June,2022,Jun-22,USA,4.264,90,3,383.78
+June,2022,Jun-22,Others,38.378,90,27,3454.02
+July,2022,Jul-22,Russia,8.528,90,6,767.56
+July,2022,Jul-22,Iraq,39.799,90,28,3581.95
+July,2022,Jul-22,Saudi Arabia,34.114,90,24,3070.24
+July,2022,Jul-22,UAE,17.057,90,12,1535.12
+July,2022,Jul-22,USA,4.264,90,3,383.78
+July,2022,Jul-22,Others,38.378,90,27,3454.02
+August,2022,Aug-22,Russia,8.528,90,6,767.56
+August,2022,Aug-22,Iraq,39.799,90,28,3581.95
+August,2022,Aug-22,Saudi Arabia,34.114,90,24,3070.24
+August,2022,Aug-22,UAE,17.057,90,12,1535.12
+August,2022,Aug-22,USA,4.264,90,3,383.78
+August,2022,Aug-22,Others,38.378,90,27,3454.02
+September,2022,Sep-22,Russia,8.528,90,6,767.56
+September,2022,Sep-22,Iraq,39.799,90,28,3581.95
+September,2022,Sep-22,Saudi Arabia,34.114,90,24,3070.24
+September,2022,Sep-22,UAE,17.057,90,12,1535.12
+September,2022,Sep-22,USA,4.264,90,3,383.78
+September,2022,Sep-22,Others,38.378,90,27,3454.02
+October,2022,Oct-22,Russia,8.528,90,6,767.56
+October,2022,Oct-22,Iraq,39.799,90,28,3581.95
+October,2022,Oct-22,Saudi Arabia,34.114,90,24,3070.24
+October,2022,Oct-22,UAE,17.057,90,12,1535.12
+October,2022,Oct-22,USA,4.264,90,3,383.78
+October,2022,Oct-22,Others,38.378,90,27,3454.02
+November,2022,Nov-22,Russia,8.528,90,6,767.56
+November,2022,Nov-22,Iraq,39.799,90,28,3581.95
+November,2022,Nov-22,Saudi Arabia,34.114,90,24,3070.24
+November,2022,Nov-22,UAE,17.057,90,12,1535.12
+November,2022,Nov-22,USA,4.264,90,3,383.78
+November,2022,Nov-22,Others,38.378,90,27,3454.02
+December,2022,Dec-22,Russia,8.528,90,6,767.56
+December,2022,Dec-22,Iraq,39.799,90,28,3581.95
+December,2022,Dec-22,Saudi Arabia,34.114,90,24,3070.24
+December,2022,Dec-22,UAE,17.057,90,12,1535.12
+December,2022,Dec-22,USA,4.264,90,3,383.78
+December,2022,Dec-22,Others,38.378,90,27,3454.02
+January,2023,Jan-23,Russia,55.387,75,39,4154.05
+January,2023,Jan-23,Iraq,28.404,75,20,2130.28
+January,2023,Jan-23,Saudi Arabia,22.723,75,16,1704.22
+January,2023,Jan-23,UAE,12.782,75,9,958.63
+January,2023,Jan-23,USA,5.681,75,4,426.06
+January,2023,Jan-23,Others,17.042,75,12,1278.17
+February,2023,Feb-23,Russia,55.387,75,39,4154.05
+February,2023,Feb-23,Iraq,28.404,75,20,2130.28
+February,2023,Feb-23,Saudi Arabia,22.723,75,16,1704.22
+February,2023,Feb-23,UAE,12.782,75,9,958.63
+February,2023,Feb-23,USA,5.681,75,4,426.06
+February,2023,Feb-23,Others,17.042,75,12,1278.17
+March,2023,Mar-23,Russia,55.387,75,39,4154.05
+March,2023,Mar-23,Iraq,28.404,75,20,2130.28
+March,2023,Mar-23,Saudi Arabia,22.723,75,16,1704.22
+March,2023,Mar-23,UAE,12.782,75,9,958.63
+March,2023,Mar-23,USA,5.681,75,4,426.06
+March,2023,Mar-23,Others,17.042,75,12,1278.17
+April,2023,Apr-23,Russia,55.387,75,39,4154.05
+April,2023,Apr-23,Iraq,28.404,75,20,2130.28
+April,2023,Apr-23,Saudi Arabia,22.723,75,16,1704.22
+April,2023,Apr-23,UAE,12.782,75,9,958.63
+April,2023,Apr-23,USA,5.681,75,4,426.06
+April,2023,Apr-23,Others,17.042,75,12,1278.17
+May,2023,May-23,Russia,55.387,75,39,4154.05
+May,2023,May-23,Iraq,28.404,75,20,2130.28
+May,2023,May-23,Saudi Arabia,22.723,75,16,1704.22
+May,2023,May-23,UAE,12.782,75,9,958.63
+May,2023,May-23,USA,5.681,75,4,426.06
+May,2023,May-23,Others,17.042,75,12,1278.17
+June,2023,Jun-23,Russia,55.387,75,39,4154.05
+June,2023,Jun-23,Iraq,28.404,75,20,2130.28
+June,2023,Jun-23,Saudi Arabia,22.723,75,16,1704.22
+June,2023,Jun-23,UAE,12.782,75,9,958.63
+June,2023,Jun-23,USA,5.681,75,4,426.06
+June,2023,Jun-23,Others,17.042,75,12,1278.17
+July,2023,Jul-23,Russia,55.387,75,39,4154.05
+July,2023,Jul-23,Iraq,28.404,75,20,2130.28
+July,2023,Jul-23,Saudi Arabia,22.723,75,16,1704.22
+July,2023,Jul-23,UAE,12.782,75,9,958.63
+July,2023,Jul-23,USA,5.681,75,4,426.06
+July,2023,Jul-23,Others,17.042,75,12,1278.17
+August,2023,Aug-23,Russia,55.387,75,39,4154.05
+August,2023,Aug-23,Iraq,28.404,75,20,2130.28
+August,2023,Aug-23,Saudi Arabia,22.723,75,16,1704.22
+August,2023,Aug-23,UAE,12.782,75,9,958.63
+August,2023,Aug-23,USA,5.681,75,4,426.06
+August,2023,Aug-23,Others,17.042,75,12,1278.17
+September,2023,Sep-23,Russia,55.387,75,39,4154.05
+September,2023,Sep-23,Iraq,28.404,75,20,2130.28
+September,2023,Sep-23,Saudi Arabia,22.723,75,16,1704.22
+September,2023,Sep-23,UAE,12.782,75,9,958.63
+September,2023,Sep-23,USA,5.681,75,4,426.06
+September,2023,Sep-23,Others,17.042,75,12,1278.17
+October,2023,Oct-23,Russia,55.387,75,39,4154.05
+October,2023,Oct-23,Iraq,28.404,75,20,2130.28
+October,2023,Oct-23,Saudi Arabia,22.723,75,16,1704.22
+October,2023,Oct-23,UAE,12.782,75,9,958.63
+October,2023,Oct-23,USA,5.681,75,4,426.06
+October,2023,Oct-23,Others,17.042,75,12,1278.17
+November,2023,Nov-23,Russia,55.387,75,39,4154.05
+November,2023,Nov-23,Iraq,28.404,75,20,2130.28
+November,2023,Nov-23,Saudi Arabia,22.723,75,16,1704.22
+November,2023,Nov-23,UAE,12.782,75,9,958.63
+November,2023,Nov-23,USA,5.681,75,4,426.06
+November,2023,Nov-23,Others,17.042,75,12,1278.17
+December,2023,Dec-23,Russia,55.387,75,39,4154.05
+December,2023,Dec-23,Iraq,28.404,75,20,2130.28
+December,2023,Dec-23,Saudi Arabia,22.723,75,16,1704.22
+December,2023,Dec-23,UAE,12.782,75,9,958.63
+December,2023,Dec-23,USA,5.681,75,4,426.06
+December,2023,Dec-23,Others,17.042,75,12,1278.17
+January,2024,Jan-24,Russia,52.547,78,37,4098.66
+January,2024,Jan-24,Iraq,25.563,78,18,1993.94
+January,2024,Jan-24,Saudi Arabia,22.723,78,16,1772.39
+January,2024,Jan-24,UAE,14.202,78,10,1107.75
+January,2024,Jan-24,USA,7.101,78,5,553.87
+January,2024,Jan-24,Others,19.883,78,14,1550.84
+February,2024,Feb-24,Russia,52.547,78,37,4098.66
+February,2024,Feb-24,Iraq,25.563,78,18,1993.94
+February,2024,Feb-24,Saudi Arabia,22.723,78,16,1772.39
+February,2024,Feb-24,UAE,14.202,78,10,1107.75
+February,2024,Feb-24,USA,7.101,78,5,553.87
+February,2024,Feb-24,Others,19.883,78,14,1550.84
+March,2024,Mar-24,Russia,52.547,78,37,4098.66
+March,2024,Mar-24,Iraq,25.563,78,18,1993.94
+March,2024,Mar-24,Saudi Arabia,22.723,78,16,1772.39
+March,2024,Mar-24,UAE,14.202,78,10,1107.75
+March,2024,Mar-24,USA,7.101,78,5,553.87
+March,2024,Mar-24,Others,19.883,78,14,1550.84
+April,2024,Apr-24,Russia,52.547,78,37,4098.66
+April,2024,Apr-24,Iraq,25.563,78,18,1993.94
+April,2024,Apr-24,Saudi Arabia,22.723,78,16,1772.39
+April,2024,Apr-24,UAE,14.202,78,10,1107.75
+April,2024,Apr-24,USA,7.101,78,5,553.87
+April,2024,Apr-24,Others,19.883,78,14,1550.84
+May,2024,May-24,Russia,52.547,78,37,4098.66
+May,2024,May-24,Iraq,25.563,78,18,1993.94
+May,2024,May-24,Saudi Arabia,22.723,78,16,1772.39
+May,2024,May-24,UAE,14.202,78,10,1107.75
+May,2024,May-24,USA,7.101,78,5,553.87
+May,2024,May-24,Others,19.883,78,14,1550.84
+June,2024,Jun-24,Russia,52.547,78,37,4098.66
+June,2024,Jun-24,Iraq,25.563,78,18,1993.94
+June,2024,Jun-24,Saudi Arabia,22.723,78,16,1772.39
+June,2024,Jun-24,UAE,14.202,78,10,1107.75
+June,2024,Jun-24,USA,7.101,78,5,553.87
+June,2024,Jun-24,Others,19.883,78,14,1550.84
+July,2024,Jul-24,Russia,52.547,78,37,4098.66
+July,2024,Jul-24,Iraq,25.563,78,18,1993.94
+July,2024,Jul-24,Saudi Arabia,22.723,78,16,1772.39
+July,2024,Jul-24,UAE,14.202,78,10,1107.75
+July,2024,Jul-24,USA,7.101,78,5,553.87
+July,2024,Jul-24,Others,19.883,78,14,1550.84
+August,2024,Aug-24,Russia,52.547,78,37,4098.66
+August,2024,Aug-24,Iraq,25.563,78,18,1993.94
+August,2024,Aug-24,Saudi Arabia,22.723,78,16,1772.39
+August,2024,Aug-24,UAE,14.202,78,10,1107.75
+August,2024,Aug-24,USA,7.101,78,5,553.87
+August,2024,Aug-24,Others,19.883,78,14,1550.84
+September,2024,Sep-24,Russia,52.547,78,37,4098.66
+September,2024,Sep-24,Iraq,25.563,78,18,1993.94
+September,2024,Sep-24,Saudi Arabia,22.723,78,16,1772.39
+September,2024,Sep-24,UAE,14.202,78,10,1107.75
+September,2024,Sep-24,USA,7.101,78,5,553.87
+September,2024,Sep-24,Others,19.883,78,14,1550.84
+October,2024,Oct-24,Russia,52.547,78,37,4098.66
+October,2024,Oct-24,Iraq,25.563,78,18,1993.94
+October,2024,Oct-24,Saudi Arabia,22.723,78,16,1772.39
+October,2024,Oct-24,UAE,14.202,78,10,1107.75
+October,2024,Oct-24,USA,7.101,78,5,553.87
+October,2024,Oct-24,Others,19.883,78,14,1550.84
+November,2024,Nov-24,Russia,52.547,78,37,4098.66
+November,2024,Nov-24,Iraq,25.563,78,18,1993.94
+November,2024,Nov-24,Saudi Arabia,22.723,78,16,1772.39
+November,2024,Nov-24,UAE,14.202,78,10,1107.75
+November,2024,Nov-24,USA,7.101,78,5,553.87
+November,2024,Nov-24,Others,19.883,78,14,1550.84
+December,2024,Dec-24,Russia,52.547,78,37,4098.66
+December,2024,Dec-24,Iraq,25.563,78,18,1993.94
+December,2024,Dec-24,Saudi Arabia,22.723,78,16,1772.39
+December,2024,Dec-24,UAE,14.202,78,10,1107.75
+December,2024,Dec-24,USA,7.101,78,5,553.87
+December,2024,Dec-24,Others,19.883,78,14,1550.84
+January,2025,Jan-25,Russia,53.875,72,36,3879.04
+January,2025,Jan-25,Iraq,26.938,72,18,1939.52
+January,2025,Jan-25,Saudi Arabia,22.448,72,15,1616.27
+January,2025,Jan-25,UAE,11.972,72,8,862.01
+January,2025,Jan-25,USA,8.979,72,6,646.51
+January,2025,Jan-25,Others,25.441,72,17,1831.77
+February,2025,Feb-25,Russia,53.875,72,36,3879.04
+February,2025,Feb-25,Iraq,26.938,72,18,1939.52
+February,2025,Feb-25,Saudi Arabia,22.448,72,15,1616.27
+February,2025,Feb-25,UAE,11.972,72,8,862.01
+February,2025,Feb-25,USA,8.979,72,6,646.51
+February,2025,Feb-25,Others,25.441,72,17,1831.77
+March,2025,Mar-25,Russia,53.875,72,36,3879.04
+March,2025,Mar-25,Iraq,26.938,72,18,1939.52
+March,2025,Mar-25,Saudi Arabia,22.448,72,15,1616.27
+March,2025,Mar-25,UAE,11.972,72,8,862.01
+March,2025,Mar-25,USA,8.979,72,6,646.51
+March,2025,Mar-25,Others,25.441,72,17,1831.77
+April,2025,Apr-25,Russia,53.875,72,36,3879.04
+April,2025,Apr-25,Iraq,26.938,72,18,1939.52
+April,2025,Apr-25,Saudi Arabia,22.448,72,15,1616.27
+April,2025,Apr-25,UAE,11.972,72,8,862.01
+April,2025,Apr-25,USA,8.979,72,6,646.51
+April,2025,Apr-25,Others,25.441,72,17,1831.77
+May,2025,May-25,Russia,53.875,72,36,3879.04
+May,2025,May-25,Iraq,26.938,72,18,1939.52
+May,2025,May-25,Saudi Arabia,22.448,72,15,1616.27
+May,2025,May-25,UAE,11.972,72,8,862.01
+May,2025,May-25,USA,8.979,72,6,646.51
+May,2025,May-25,Others,25.441,72,17,1831.77
+June,2025,Jun-25,Russia,53.875,72,36,3879.04
+June,2025,Jun-25,Iraq,26.938,72,18,1939.52
+June,2025,Jun-25,Saudi Arabia,22.448,72,15,1616.27
+June,2025,Jun-25,UAE,11.972,72,8,862.01
+June,2025,Jun-25,USA,8.979,72,6,646.51
+June,2025,Jun-25,Others,25.441,72,17,1831.77
+July,2025,Jul-25,Russia,53.875,72,36,3879.04
+July,2025,Jul-25,Iraq,26.938,72,18,1939.52
+July,2025,Jul-25,Saudi Arabia,22.448,72,15,1616.27
+July,2025,Jul-25,UAE,11.972,72,8,862.01
+July,2025,Jul-25,USA,8.979,72,6,646.51
+July,2025,Jul-25,Others,25.441,72,17,1831.77
+August,2025,Aug-25,Russia,53.875,72,36,3879.04
+August,2025,Aug-25,Iraq,26.938,72,18,1939.52
+August,2025,Aug-25,Saudi Arabia,22.448,72,15,1616.27
+August,2025,Aug-25,UAE,11.972,72,8,862.01
+August,2025,Aug-25,USA,8.979,72,6,646.51
+August,2025,Aug-25,Others,25.441,72,17,1831.77

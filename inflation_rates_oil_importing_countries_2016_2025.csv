@@ -1,0 +1,1905 @@
+Country Name,Month,Year,Inflation Rate (%)
+China,January,2016,2
+China,February,2016,2.3
+China,March,2016,2.3
+China,April,2016,2.3
+China,May,2016,2
+China,June,2016,2
+China,July,2016,2
+China,August,2016,2.6
+China,September,2016,2.3
+China,October,2016,2.1
+China,November,2016,2.1
+China,December,2016,2.3
+China,January,2017,2.5
+China,February,2017,2
+China,March,2017,0.9
+China,April,2017,1.2
+China,May,2017,1.5
+China,June,2017,1.6
+China,July,2017,1.6
+China,August,2017,1.8
+China,September,2017,1.9
+China,October,2017,1.5
+China,November,2017,1.9
+China,December,2017,1.8
+China,January,2018,1.8
+China,February,2018,2.5
+China,March,2018,2.1
+China,April,2018,1.8
+China,May,2018,1.8
+China,June,2018,2
+China,July,2018,2
+China,August,2018,2.1
+China,September,2018,2.5
+China,October,2018,2.5
+China,November,2018,2.2
+China,December,2018,2.1
+China,January,2019,1.5
+China,February,2019,1.5
+China,March,2019,2.3
+China,April,2019,2.5
+China,May,2019,2.7
+China,June,2019,2.7
+China,July,2019,2.8
+China,August,2019,3
+China,September,2019,2.5
+China,October,2019,3
+China,November,2019,3.2
+China,December,2019,3.9
+China,January,2020,5.4
+China,February,2020,5.3
+China,March,2020,4.3
+China,April,2020,3.3
+China,May,2020,2.4
+China,June,2020,2.5
+China,July,2020,2.7
+China,August,2020,2.7
+China,September,2020,1.7
+China,October,2020,0.5
+China,November,2020,0.5
+China,December,2020,0.2
+China,January,2021,0.7
+China,February,2021,-0.2
+China,March,2021,0.4
+China,April,2021,0.9
+China,May,2021,1.3
+China,June,2021,1.3
+China,July,2021,1
+China,August,2021,0.7
+China,September,2021,0.6
+China,October,2021,0.9
+China,November,2021,1.5
+China,December,2021,1.5
+China,January,2022,1
+China,February,2022,0.5
+China,March,2022,1
+China,April,2022,1.5
+China,May,2022,2.1
+China,June,2022,2.5
+China,July,2022,2.1
+China,August,2022,2.5
+China,September,2022,2.8
+China,October,2022,2.1
+China,November,2022,1.6
+China,December,2022,1.5
+China,January,2023,1.8
+China,February,2023,1
+China,March,2023,0.7
+China,April,2023,0.3
+China,May,2023,0.3
+China,June,2023,0.2
+China,July,2023,0.2
+China,August,2023,0.1
+China,September,2023,-0.3
+China,October,2023,-0.2
+China,November,2023,-0.5
+China,December,2023,-0.3
+China,January,2024,0.3
+China,February,2024,0.7
+China,March,2024,0.1
+China,April,2024,0.3
+China,May,2024,0.3
+China,June,2024,0.2
+China,July,2024,0.5
+China,August,2024,0.5
+China,January,2025,0.4
+China,February,2025,0.3
+China,March,2025,0.2
+China,April,2025,0.1
+China,May,2025,0
+China,June,2025,-0.1
+China,July,2025,0
+China,August,2025,-0.4
+India,January,2016,5.7
+India,February,2016,5.2
+India,March,2016,4.9
+India,April,2016,5.2
+India,May,2016,5
+India,June,2016,5.8
+India,July,2016,4.9
+India,August,2016,5.1
+India,September,2016,4.5
+India,October,2016,4.2
+India,November,2016,3.6
+India,December,2016,5
+India,January,2017,5
+India,February,2017,3.7
+India,March,2017,3.9
+India,April,2017,4.7
+India,May,2017,3.2
+India,June,2017,1.5
+India,July,2017,2.4
+India,August,2017,3.4
+India,September,2017,3.3
+India,October,2017,3.6
+India,November,2017,4.9
+India,December,2017,5.2
+India,January,2018,5.4
+India,February,2018,4.7
+India,March,2018,4.9
+India,April,2018,4.9
+India,May,2018,4.6
+India,June,2018,5
+India,July,2018,3.9
+India,August,2018,3.4
+India,September,2018,3.8
+India,October,2018,3.2
+India,November,2018,3.4
+India,December,2018,3.6
+India,January,2019,3.8
+India,February,2019,2.6
+India,March,2019,2.9
+India,April,2019,3
+India,May,2019,3.1
+India,June,2019,2
+India,July,2019,3.1
+India,August,2019,3.3
+India,September,2019,4.6
+India,October,2019,4.6
+India,November,2019,3.3
+India,December,2019,7.4
+India,January,2020,7.6
+India,February,2020,6.6
+India,March,2020,6.1
+India,April,2020,7.2
+India,May,2020,6.3
+India,June,2020,6.1
+India,July,2020,6.7
+India,August,2020,6.7
+India,September,2020,7.3
+India,October,2020,7.6
+India,November,2020,6.9
+India,December,2020,4.1
+India,January,2021,4.1
+India,February,2021,4.8
+India,March,2021,5.5
+India,April,2021,4.2
+India,May,2021,6.3
+India,June,2021,6.3
+India,July,2021,5.6
+India,August,2021,5.5
+India,September,2021,4.4
+India,October,2021,4.6
+India,November,2021,4.9
+India,December,2021,5.7
+India,January,2022,6
+India,February,2022,6.1
+India,March,2022,6.9
+India,April,2022,7.8
+India,May,2022,7
+India,June,2022,7
+India,July,2022,6.7
+India,August,2022,7
+India,September,2022,6.8
+India,October,2022,6.8
+India,November,2022,5.9
+India,December,2022,5.9
+India,January,2023,6.5
+India,February,2023,6
+India,March,2023,5.7
+India,April,2023,4.7
+India,May,2023,4.3
+India,June,2023,4.8
+India,July,2023,7.4
+India,August,2023,6.8
+India,September,2023,5.5
+India,October,2023,5.7
+India,November,2023,5.5
+India,December,2023,5.7
+India,January,2024,5.1
+India,February,2024,5.1
+India,March,2024,4.9
+India,April,2024,4.8
+India,May,2024,4.7
+India,June,2024,5.1
+India,July,2024,3.7
+India,August,2024,3.7
+India,January,2025,4
+India,February,2025,4.2
+India,March,2025,4.5
+India,April,2025,4.8
+India,May,2025,5
+India,June,2025,5.2
+India,July,2025,5.4
+India,August,2025,5.6
+South Korea,January,2016,0.8
+South Korea,February,2016,1.1
+South Korea,March,2016,0.9
+South Korea,April,2016,1
+South Korea,May,2016,0.8
+South Korea,June,2016,0.8
+South Korea,July,2016,0.7
+South Korea,August,2016,0.4
+South Korea,September,2016,1.2
+South Korea,October,2016,1.5
+South Korea,November,2016,1.5
+South Korea,December,2016,1.3
+South Korea,January,2017,2
+South Korea,February,2017,1.9
+South Korea,March,2017,2.2
+South Korea,April,2017,1.9
+South Korea,May,2017,2
+South Korea,June,2017,1.9
+South Korea,July,2017,2.2
+South Korea,August,2017,2.6
+South Korea,September,2017,2.1
+South Korea,October,2017,1.8
+South Korea,November,2017,1.3
+South Korea,December,2017,1.5
+South Korea,January,2018,1
+South Korea,February,2018,1.4
+South Korea,March,2018,1.3
+South Korea,April,2018,1.6
+South Korea,May,2018,1.5
+South Korea,June,2018,1.5
+South Korea,July,2018,1.1
+South Korea,August,2018,1.4
+South Korea,September,2018,1.9
+South Korea,October,2018,2
+South Korea,November,2018,2
+South Korea,December,2018,1.3
+South Korea,January,2019,0.8
+South Korea,February,2019,0.5
+South Korea,March,2019,0.4
+South Korea,April,2019,0.6
+South Korea,May,2019,0.7
+South Korea,June,2019,0.7
+South Korea,July,2019,0.6
+South Korea,August,2019,0
+South Korea,September,2019,-0.4
+South Korea,October,2019,0
+South Korea,November,2019,0.2
+South Korea,December,2019,0.7
+South Korea,January,2020,1.5
+South Korea,February,2020,1.1
+South Korea,March,2020,1
+South Korea,April,2020,0.1
+South Korea,May,2020,-0.3
+South Korea,June,2020,0
+South Korea,July,2020,0.3
+South Korea,August,2020,0.7
+South Korea,September,2020,1
+South Korea,October,2020,0.1
+South Korea,November,2020,0.6
+South Korea,December,2020,0.5
+South Korea,January,2021,0.6
+South Korea,February,2021,1.1
+South Korea,March,2021,1.5
+South Korea,April,2021,2.3
+South Korea,May,2021,2.6
+South Korea,June,2021,2.4
+South Korea,July,2021,2.6
+South Korea,August,2021,2.6
+South Korea,September,2021,2.5
+South Korea,October,2021,3.2
+South Korea,November,2021,3.7
+South Korea,December,2021,3.7
+South Korea,January,2022,3.6
+South Korea,February,2022,3.7
+South Korea,March,2022,4.1
+South Korea,April,2022,4.8
+South Korea,May,2022,5.4
+South Korea,June,2022,6
+South Korea,July,2022,6.3
+South Korea,August,2022,5.7
+South Korea,September,2022,5.6
+South Korea,October,2022,5.7
+South Korea,November,2022,5
+South Korea,December,2022,5
+South Korea,January,2023,5.2
+South Korea,February,2023,4.8
+South Korea,March,2023,4.2
+South Korea,April,2023,3.7
+South Korea,May,2023,3.3
+South Korea,June,2023,2.7
+South Korea,July,2023,2.3
+South Korea,August,2023,3.4
+South Korea,September,2023,3.7
+South Korea,October,2023,3.8
+South Korea,November,2023,3.3
+South Korea,December,2023,3.2
+South Korea,January,2024,2.8
+South Korea,February,2024,3.1
+South Korea,March,2024,3.1
+South Korea,April,2024,2.9
+South Korea,May,2024,2.7
+South Korea,June,2024,2.4
+South Korea,July,2024,2.6
+South Korea,August,2024,2
+South Korea,January,2025,1.9
+South Korea,February,2025,1.8
+South Korea,March,2025,1.8
+South Korea,April,2025,1.7
+South Korea,May,2025,1.7
+South Korea,June,2025,1.7
+South Korea,July,2025,1.7
+South Korea,August,2025,1.7
+Japan,January,2016,0
+Japan,February,2016,0.3
+Japan,March,2016,-0.1
+Japan,April,2016,-0.3
+Japan,May,2016,-0.4
+Japan,June,2016,-0.4
+Japan,July,2016,-0.4
+Japan,August,2016,-0.5
+Japan,September,2016,-0.5
+Japan,October,2016,0.1
+Japan,November,2016,0.5
+Japan,December,2016,0.3
+Japan,January,2017,0.5
+Japan,February,2017,0.4
+Japan,March,2017,0.2
+Japan,April,2017,0.4
+Japan,May,2017,0.4
+Japan,June,2017,0.4
+Japan,July,2017,0.4
+Japan,August,2017,0.7
+Japan,September,2017,0.7
+Japan,October,2017,0.2
+Japan,November,2017,0.6
+Japan,December,2017,1
+Japan,January,2018,1.4
+Japan,February,2018,1.5
+Japan,March,2018,1.1
+Japan,April,2018,0.6
+Japan,May,2018,0.7
+Japan,June,2018,0.7
+Japan,July,2018,0.9
+Japan,August,2018,1.3
+Japan,September,2018,1.2
+Japan,October,2018,1.4
+Japan,November,2018,0.8
+Japan,December,2018,0.3
+Japan,January,2019,0.2
+Japan,February,2019,0.2
+Japan,March,2019,0.5
+Japan,April,2019,0.9
+Japan,May,2019,0.7
+Japan,June,2019,0.7
+Japan,July,2019,0.5
+Japan,August,2019,0.3
+Japan,September,2019,0.2
+Japan,October,2019,0.2
+Japan,November,2019,0.5
+Japan,December,2019,0.8
+Japan,January,2020,0.8
+Japan,February,2020,0.4
+Japan,March,2020,0.4
+Japan,April,2020,0.1
+Japan,May,2020,0.1
+Japan,June,2020,0.1
+Japan,July,2020,0.3
+Japan,August,2020,0.2
+Japan,September,2020,0
+Japan,October,2020,-0.4
+Japan,November,2020,-0.9
+Japan,December,2020,-1.2
+Japan,January,2021,-0.6
+Japan,February,2021,-0.4
+Japan,March,2021,-0.2
+Japan,April,2021,-0.4
+Japan,May,2021,-0.1
+Japan,June,2021,0.2
+Japan,July,2021,-0.3
+Japan,August,2021,-0.4
+Japan,September,2021,0.2
+Japan,October,2021,0.1
+Japan,November,2021,0.6
+Japan,December,2021,0.8
+Japan,January,2022,0.5
+Japan,February,2022,0.9
+Japan,March,2022,1.2
+Japan,April,2022,2.5
+Japan,May,2022,2.5
+Japan,June,2022,2.4
+Japan,July,2022,2.6
+Japan,August,2022,3
+Japan,September,2022,3
+Japan,October,2022,3.7
+Japan,November,2022,3.8
+Japan,December,2022,4
+Japan,January,2023,4.2
+Japan,February,2023,3.3
+Japan,March,2023,3.2
+Japan,April,2023,3.5
+Japan,May,2023,3.2
+Japan,June,2023,3.3
+Japan,July,2023,3.3
+Japan,August,2023,3.2
+Japan,September,2023,3
+Japan,October,2023,3.3
+Japan,November,2023,2.8
+Japan,December,2023,2.6
+Japan,January,2024,2.2
+Japan,February,2024,2.8
+Japan,March,2024,2.7
+Japan,April,2024,2.5
+Japan,May,2024,2.8
+Japan,June,2024,2.8
+Japan,July,2024,2.8
+Japan,August,2024,3
+Japan,January,2025,3.2
+Japan,February,2025,3.2
+Japan,March,2025,3.1
+Japan,April,2025,3.1
+Japan,May,2025,3.1
+Japan,June,2025,3.1
+Japan,July,2025,3.1
+Japan,August,2025,3.1
+Germany,January,2016,1.3
+Germany,February,2016,0.2
+Germany,March,2016,0.3
+Germany,April,2016,0.2
+Germany,May,2016,0.1
+Germany,June,2016,0.2
+Germany,July,2016,0.3
+Germany,August,2016,0.4
+Germany,September,2016,0.5
+Germany,October,2016,0.5
+Germany,November,2016,0.8
+Germany,December,2016,1.7
+Germany,January,2017,1.9
+Germany,February,2017,2.2
+Germany,March,2017,1.8
+Germany,April,2017,1.9
+Germany,May,2017,1.5
+Germany,June,2017,1.6
+Germany,July,2017,1.7
+Germany,August,2017,1.9
+Germany,September,2017,1.8
+Germany,October,2017,1.7
+Germany,November,2017,1.7
+Germany,December,2017,1.7
+Germany,January,2018,1.6
+Germany,February,2018,1.6
+Germany,March,2018,1.6
+Germany,April,2018,1.6
+Germany,May,2018,2
+Germany,June,2018,2.1
+Germany,July,2018,2.1
+Germany,August,2018,2
+Germany,September,2018,2.2
+Germany,October,2018,2.1
+Germany,November,2018,2.3
+Germany,December,2018,1.7
+Germany,January,2019,1.6
+Germany,February,2019,1.5
+Germany,March,2019,1.4
+Germany,April,2019,2
+Germany,May,2019,1.4
+Germany,June,2019,1.7
+Germany,July,2019,1.7
+Germany,August,2019,1.2
+Germany,September,2019,1.2
+Germany,October,2019,1.1
+Germany,November,2019,1.2
+Germany,December,2019,1.5
+Germany,January,2020,1.6
+Germany,February,2020,1.7
+Germany,March,2020,1.4
+Germany,April,2020,0.9
+Germany,May,2020,0
+Germany,June,2020,0.6
+Germany,July,2020,0.4
+Germany,August,2020,-0.2
+Germany,September,2020,-0.3
+Germany,October,2020,-0.3
+Germany,November,2020,-0.3
+Germany,December,2020,0
+Germany,January,2021,1
+Germany,February,2021,1.3
+Germany,March,2021,1.6
+Germany,April,2021,2.1
+Germany,May,2021,2.1
+Germany,June,2021,2.3
+Germany,July,2021,3.1
+Germany,August,2021,3.2
+Germany,September,2021,4.1
+Germany,October,2021,4.5
+Germany,November,2021,5.9
+Germany,December,2021,5.3
+Germany,January,2022,4.9
+Germany,February,2022,5.1
+Germany,March,2022,7.3
+Germany,April,2022,7.2
+Germany,May,2022,7.9
+Germany,June,2022,8.2
+Germany,July,2022,8.5
+Germany,August,2022,8.6
+Germany,September,2022,10
+Germany,October,2022,10.4
+Germany,November,2022,10.1
+Germany,December,2022,9.6
+Germany,January,2023,8.6
+Germany,February,2023,8.7
+Germany,March,2023,7.4
+Germany,April,2023,7.2
+Germany,May,2023,6.4
+Germany,June,2023,6.4
+Germany,July,2023,6.2
+Germany,August,2023,6.4
+Germany,September,2023,6.3
+Germany,October,2023,6.9
+Germany,November,2023,6
+Germany,December,2023,5.9
+Germany,January,2024,5.8
+Germany,February,2024,5.6
+Germany,March,2024,5.7
+Germany,April,2024,5.6
+Germany,May,2024,5
+Germany,June,2024,4.9
+Germany,July,2024,4.5
+Germany,August,2024,4.1
+Germany,January,2025,3.8
+Germany,February,2025,3.5
+Germany,March,2025,3.2
+Germany,April,2025,3
+Germany,May,2025,2.8
+Germany,June,2025,2.6
+Germany,July,2025,2.4
+Germany,August,2025,2.2
+Spain,January,2016,0.1
+Spain,February,2016,-0.3
+Spain,March,2016,-0.8
+Spain,April,2016,-0.8
+Spain,May,2016,-0.9
+Spain,June,2016,-0.8
+Spain,July,2016,-0.6
+Spain,August,2016,-0.1
+Spain,September,2016,0.2
+Spain,October,2016,0.7
+Spain,November,2016,0.7
+Spain,December,2016,1.6
+Spain,January,2017,3
+Spain,February,2017,3
+Spain,March,2017,2.3
+Spain,April,2017,2.6
+Spain,May,2017,1.9
+Spain,June,2017,1.5
+Spain,July,2017,1.5
+Spain,August,2017,1.6
+Spain,September,2017,1.8
+Spain,October,2017,1.6
+Spain,November,2017,1.7
+Spain,December,2017,1.1
+Spain,January,2018,0.6
+Spain,February,2018,1.1
+Spain,March,2018,1.2
+Spain,April,2018,1.1
+Spain,May,2018,2
+Spain,June,2018,2.3
+Spain,July,2018,2.2
+Spain,August,2018,2.2
+Spain,September,2018,2.3
+Spain,October,2018,2.3
+Spain,November,2018,1.7
+Spain,December,2018,1.2
+Spain,January,2019,1
+Spain,February,2019,1.1
+Spain,March,2019,1.3
+Spain,April,2019,1.5
+Spain,May,2019,0.8
+Spain,June,2019,0.4
+Spain,July,2019,0.5
+Spain,August,2019,0.3
+Spain,September,2019,0.1
+Spain,October,2019,0.1
+Spain,November,2019,0.4
+Spain,December,2019,0.8
+Spain,January,2020,1.1
+Spain,February,2020,0.7
+Spain,March,2020,0
+Spain,April,2020,-0.7
+Spain,May,2020,-0.9
+Spain,June,2020,-0.3
+Spain,July,2020,-0.6
+Spain,August,2020,-0.5
+Spain,September,2020,-0.4
+Spain,October,2020,-0.8
+Spain,November,2020,-0.8
+Spain,December,2020,-0.5
+Spain,January,2021,0.5
+Spain,February,2021,0
+Spain,March,2021,1.3
+Spain,April,2021,2.2
+Spain,May,2021,2.7
+Spain,June,2021,2.7
+Spain,July,2021,2.9
+Spain,August,2021,3.3
+Spain,September,2021,4
+Spain,October,2021,5.4
+Spain,November,2021,5.5
+Spain,December,2021,6.5
+Spain,January,2022,6.1
+Spain,February,2022,7.6
+Spain,March,2022,9.8
+Spain,April,2022,8.4
+Spain,May,2022,8.7
+Spain,June,2022,10.2
+Spain,July,2022,10.8
+Spain,August,2022,10.5
+Spain,September,2022,8.9
+Spain,October,2022,7.3
+Spain,November,2022,6.8
+Spain,December,2022,5.7
+Spain,January,2023,5.9
+Spain,February,2023,6
+Spain,March,2023,3.3
+Spain,April,2023,4.1
+Spain,May,2023,3.2
+Spain,June,2023,1.9
+Spain,July,2023,2.3
+Spain,August,2023,2.6
+Spain,September,2023,3.5
+Spain,October,2023,3.5
+Spain,November,2023,3.2
+Spain,December,2023,3.1
+Spain,January,2024,3.4
+Spain,February,2024,2.8
+Spain,March,2024,3.2
+Spain,April,2024,3.3
+Spain,May,2024,3.6
+Spain,June,2024,3.4
+Spain,July,2024,2.8
+Spain,August,2024,2.4
+Spain,January,2025,2.7
+Spain,February,2025,2.6
+Spain,March,2025,2.6
+Spain,April,2025,2.5
+Spain,May,2025,2.5
+Spain,June,2025,2.5
+Spain,July,2025,2.5
+Spain,August,2025,2.5
+Italy,January,2016,0.3
+Italy,February,2016,-0.3
+Italy,March,2016,-0.2
+Italy,April,2016,-0.5
+Italy,May,2016,-0.3
+Italy,June,2016,-0.4
+Italy,July,2016,-0.1
+Italy,August,2016,-0.1
+Italy,September,2016,0.1
+Italy,October,2016,-0.1
+Italy,November,2016,0
+Italy,December,2016,0.5
+Italy,January,2017,1
+Italy,February,2017,1.6
+Italy,March,2017,1.4
+Italy,April,2017,1.9
+Italy,May,2017,1.4
+Italy,June,2017,1.2
+Italy,July,2017,1.1
+Italy,August,2017,1.2
+Italy,September,2017,1.1
+Italy,October,2017,1
+Italy,November,2017,0.9
+Italy,December,2017,0.9
+Italy,January,2018,0.9
+Italy,February,2018,0.5
+Italy,March,2018,0.8
+Italy,April,2018,0.5
+Italy,May,2018,1
+Italy,June,2018,1.3
+Italy,July,2018,1.5
+Italy,August,2018,1.6
+Italy,September,2018,1.4
+Italy,October,2018,1.6
+Italy,November,2018,1.6
+Italy,December,2018,1.1
+Italy,January,2019,0.9
+Italy,February,2019,1
+Italy,March,2019,1
+Italy,April,2019,1.1
+Italy,May,2019,0.8
+Italy,June,2019,0.7
+Italy,July,2019,0.4
+Italy,August,2019,0.4
+Italy,September,2019,0.3
+Italy,October,2019,0.3
+Italy,November,2019,0.4
+Italy,December,2019,0.5
+Italy,January,2020,0.3
+Italy,February,2020,0.3
+Italy,March,2020,0.1
+Italy,April,2020,0
+Italy,May,2020,-0.2
+Italy,June,2020,-0.2
+Italy,July,2020,-0.4
+Italy,August,2020,-0.5
+Italy,September,2020,-0.6
+Italy,October,2020,-0.3
+Italy,November,2020,-0.2
+Italy,December,2020,-0.1
+Italy,January,2021,0.4
+Italy,February,2021,0.6
+Italy,March,2021,0.8
+Italy,April,2021,1.1
+Italy,May,2021,1.3
+Italy,June,2021,1.3
+Italy,July,2021,1.9
+Italy,August,2021,2
+Italy,September,2021,2.5
+Italy,October,2021,3
+Italy,November,2021,3.7
+Italy,December,2021,3.9
+Italy,January,2022,4.8
+Italy,February,2022,5.7
+Italy,March,2022,6.5
+Italy,April,2022,6
+Italy,May,2022,6.8
+Italy,June,2022,8
+Italy,July,2022,7.9
+Italy,August,2022,8.4
+Italy,September,2022,8.9
+Italy,October,2022,11.8
+Italy,November,2022,11.8
+Italy,December,2022,11.6
+Italy,January,2023,10
+Italy,February,2023,9.1
+Italy,March,2023,7.6
+Italy,April,2023,8.2
+Italy,May,2023,7.6
+Italy,June,2023,6.4
+Italy,July,2023,5.9
+Italy,August,2023,5.4
+Italy,September,2023,5.3
+Italy,October,2023,1.7
+Italy,November,2023,0.7
+Italy,December,2023,0.6
+Italy,January,2024,0.8
+Italy,February,2024,0.8
+Italy,March,2024,1.2
+Italy,April,2024,0.9
+Italy,May,2024,0.8
+Italy,June,2024,0.8
+Italy,July,2024,1.3
+Italy,August,2024,1.1
+Italy,January,2025,1.3
+Italy,February,2025,1.4
+Italy,March,2025,1.4
+Italy,April,2025,1.5
+Italy,May,2025,1.5
+Italy,June,2025,1.5
+Italy,July,2025,1.6
+Italy,August,2025,1.6
+Indonesia,January,2016,4.1
+Indonesia,February,2016,4.4
+Indonesia,March,2016,4.5
+Indonesia,April,2016,3.6
+Indonesia,May,2016,3.3
+Indonesia,June,2016,3.5
+Indonesia,July,2016,3.2
+Indonesia,August,2016,2.8
+Indonesia,September,2016,3.1
+Indonesia,October,2016,3.3
+Indonesia,November,2016,3.6
+Indonesia,December,2016,3
+Indonesia,January,2017,3.5
+Indonesia,February,2017,3.8
+Indonesia,March,2017,3.6
+Indonesia,April,2017,4.2
+Indonesia,May,2017,4.3
+Indonesia,June,2017,4.4
+Indonesia,July,2017,3.9
+Indonesia,August,2017,3.8
+Indonesia,September,2017,3.7
+Indonesia,October,2017,3.6
+Indonesia,November,2017,3.3
+Indonesia,December,2017,3.6
+Indonesia,January,2018,3.3
+Indonesia,February,2018,3.2
+Indonesia,March,2018,3.4
+Indonesia,April,2018,3.4
+Indonesia,May,2018,3.2
+Indonesia,June,2018,3.1
+Indonesia,July,2018,3.2
+Indonesia,August,2018,3.2
+Indonesia,September,2018,2.9
+Indonesia,October,2018,3.2
+Indonesia,November,2018,3.2
+Indonesia,December,2018,3.1
+Indonesia,January,2019,2.8
+Indonesia,February,2019,2.6
+Indonesia,March,2019,2.5
+Indonesia,April,2019,2.8
+Indonesia,May,2019,3.3
+Indonesia,June,2019,3.3
+Indonesia,July,2019,3.3
+Indonesia,August,2019,3.5
+Indonesia,September,2019,3.4
+Indonesia,October,2019,3.1
+Indonesia,November,2019,3
+Indonesia,December,2019,2.7
+Indonesia,January,2020,2.7
+Indonesia,February,2020,2.8
+Indonesia,March,2020,3
+Indonesia,April,2020,2.7
+Indonesia,May,2020,2.2
+Indonesia,June,2020,1.9
+Indonesia,July,2020,1.5
+Indonesia,August,2020,1.3
+Indonesia,September,2020,1.4
+Indonesia,October,2020,1.4
+Indonesia,November,2020,1.6
+Indonesia,December,2020,1.7
+Indonesia,January,2021,1.6
+Indonesia,February,2021,1.4
+Indonesia,March,2021,1.4
+Indonesia,April,2021,1.4
+Indonesia,May,2021,1.7
+Indonesia,June,2021,1.3
+Indonesia,July,2021,1.5
+Indonesia,August,2021,1.6
+Indonesia,September,2021,1.6
+Indonesia,October,2021,1.7
+Indonesia,November,2021,1.8
+Indonesia,December,2021,1.9
+Indonesia,January,2022,2.2
+Indonesia,February,2022,2.1
+Indonesia,March,2022,2.6
+Indonesia,April,2022,3.5
+Indonesia,May,2022,3.6
+Indonesia,June,2022,4.4
+Indonesia,July,2022,4.9
+Indonesia,August,2022,4.7
+Indonesia,September,2022,5.9
+Indonesia,October,2022,5.7
+Indonesia,November,2022,5.4
+Indonesia,December,2022,5.5
+Indonesia,January,2023,5.3
+Indonesia,February,2023,5.5
+Indonesia,March,2023,5
+Indonesia,April,2023,4.3
+Indonesia,May,2023,4
+Indonesia,June,2023,3.5
+Indonesia,July,2023,3.1
+Indonesia,August,2023,3.3
+Indonesia,September,2023,2.3
+Indonesia,October,2023,2.6
+Indonesia,November,2023,2.9
+Indonesia,December,2023,2.6
+Indonesia,January,2024,2.6
+Indonesia,February,2024,2.8
+Indonesia,March,2024,3.1
+Indonesia,April,2024,3
+Indonesia,May,2024,2.8
+Indonesia,June,2024,2.5
+Indonesia,July,2024,2.1
+Indonesia,August,2024,2.1
+Indonesia,January,2025,1.8
+Indonesia,February,2025,1.9
+Indonesia,March,2025,2
+Indonesia,April,2025,2.1
+Indonesia,May,2025,2.2
+Indonesia,June,2025,2.2
+Indonesia,July,2025,2.3
+Indonesia,August,2025,2.3
+Bangladesh,January,2016,6.1
+Bangladesh,February,2016,6.2
+Bangladesh,March,2016,6
+Bangladesh,April,2016,5.9
+Bangladesh,May,2016,5.8
+Bangladesh,June,2016,5.9
+Bangladesh,July,2016,5.8
+Bangladesh,August,2016,5.9
+Bangladesh,September,2016,5.5
+Bangladesh,October,2016,5.6
+Bangladesh,November,2016,5.4
+Bangladesh,December,2016,5.5
+Bangladesh,January,2017,5.3
+Bangladesh,February,2017,5.3
+Bangladesh,March,2017,5.4
+Bangladesh,April,2017,5.8
+Bangladesh,May,2017,5.8
+Bangladesh,June,2017,5.5
+Bangladesh,July,2017,5.6
+Bangladesh,August,2017,5.6
+Bangladesh,September,2017,5.7
+Bangladesh,October,2017,5.8
+Bangladesh,November,2017,5.9
+Bangladesh,December,2017,5.8
+Bangladesh,January,2018,5.8
+Bangladesh,February,2018,5.7
+Bangladesh,March,2018,5.7
+Bangladesh,April,2018,5.6
+Bangladesh,May,2018,5.6
+Bangladesh,June,2018,5.5
+Bangladesh,July,2018,5.5
+Bangladesh,August,2018,5.5
+Bangladesh,September,2018,5.4
+Bangladesh,October,2018,5.4
+Bangladesh,November,2018,5.6
+Bangladesh,December,2018,5.4
+Bangladesh,January,2019,5.5
+Bangladesh,February,2019,5.5
+Bangladesh,March,2019,5.6
+Bangladesh,April,2019,5.6
+Bangladesh,May,2019,5.6
+Bangladesh,June,2019,5.5
+Bangladesh,July,2019,5.6
+Bangladesh,August,2019,5.6
+Bangladesh,September,2019,5.5
+Bangladesh,October,2019,5.5
+Bangladesh,November,2019,5.5
+Bangladesh,December,2019,5.7
+Bangladesh,January,2020,5.7
+Bangladesh,February,2020,5.5
+Bangladesh,March,2020,5.5
+Bangladesh,April,2020,5.6
+Bangladesh,May,2020,5.6
+Bangladesh,June,2020,5.7
+Bangladesh,July,2020,5.7
+Bangladesh,August,2020,5.7
+Bangladesh,September,2020,5.7
+Bangladesh,October,2020,5.7
+Bangladesh,November,2020,5.7
+Bangladesh,December,2020,5.3
+Bangladesh,January,2021,5
+Bangladesh,February,2021,5.3
+Bangladesh,March,2021,5.5
+Bangladesh,April,2021,5.6
+Bangladesh,May,2021,5.3
+Bangladesh,June,2021,5.6
+Bangladesh,July,2021,5.3
+Bangladesh,August,2021,5.5
+Bangladesh,September,2021,5.6
+Bangladesh,October,2021,5.7
+Bangladesh,November,2021,5.7
+Bangladesh,December,2021,6.1
+Bangladesh,January,2022,5.9
+Bangladesh,February,2022,6.2
+Bangladesh,March,2022,6.2
+Bangladesh,April,2022,7.4
+Bangladesh,May,2022,7.4
+Bangladesh,June,2022,7.6
+Bangladesh,July,2022,7.5
+Bangladesh,August,2022,9.5
+Bangladesh,September,2022,9.1
+Bangladesh,October,2022,8.9
+Bangladesh,November,2022,8.8
+Bangladesh,December,2022,8.7
+Bangladesh,January,2023,8.9
+Bangladesh,February,2023,8.8
+Bangladesh,March,2023,9.3
+Bangladesh,April,2023,9.2
+Bangladesh,May,2023,9.2
+Bangladesh,June,2023,9.7
+Bangladesh,July,2023,9.7
+Bangladesh,August,2023,9.9
+Bangladesh,September,2023,9.6
+Bangladesh,October,2023,9.9
+Bangladesh,November,2023,9.5
+Bangladesh,December,2023,9.4
+Bangladesh,January,2024,9.5
+Bangladesh,February,2024,9.7
+Bangladesh,March,2024,9.8
+Bangladesh,April,2024,9.7
+Bangladesh,May,2024,9.9
+Bangladesh,June,2024,9.7
+Bangladesh,July,2024,10
+Bangladesh,August,2024,10.5
+Bangladesh,January,2025,9
+Bangladesh,February,2025,8.9
+Bangladesh,March,2025,8.8
+Bangladesh,March,2025,8.7
+Bangladesh,May,2025,8.6
+Bangladesh,June,2025,8.5
+Bangladesh,July,2025,8.4
+Bangladesh,August,2025,8.3
+Pakistan,January,2016,3.3
+Pakistan,February,2016,4
+Pakistan,March,2016,3.9
+Pakistan,April,2016,4.2
+Pakistan,May,2016,3.2
+Pakistan,June,2016,3.2
+Pakistan,July,2016,4.1
+Pakistan,August,2016,3.6
+Pakistan,September,2016,3.4
+Pakistan,October,2016,4.2
+Pakistan,November,2016,4.2
+Pakistan,December,2016,3.7
+Pakistan,January,2017,3.7
+Pakistan,February,2017,4.2
+Pakistan,March,2017,4.9
+Pakistan,April,2017,4.8
+Pakistan,May,2017,5
+Pakistan,June,2017,4.4
+Pakistan,July,2017,2.9
+Pakistan,August,2017,3.4
+Pakistan,September,2017,3.9
+Pakistan,October,2017,4
+Pakistan,November,2017,3.6
+Pakistan,December,2017,4.6
+Pakistan,January,2018,4.4
+Pakistan,February,2018,3.8
+Pakistan,March,2018,3.2
+Pakistan,April,2018,3.7
+Pakistan,May,2018,4.2
+Pakistan,June,2018,5.2
+Pakistan,July,2018,5.8
+Pakistan,August,2018,5.8
+Pakistan,September,2018,5.1
+Pakistan,October,2018,6.8
+Pakistan,November,2018,6.5
+Pakistan,December,2018,6.2
+Pakistan,January,2019,5.6
+Pakistan,February,2019,6.8
+Pakistan,March,2019,9.4
+Pakistan,April,2019,8.8
+Pakistan,May,2019,8.5
+Pakistan,June,2019,8.9
+Pakistan,July,2019,10.3
+Pakistan,August,2019,10.5
+Pakistan,September,2019,11.4
+Pakistan,October,2019,11.1
+Pakistan,November,2019,12.7
+Pakistan,December,2019,12.6
+Pakistan,January,2020,14.6
+Pakistan,February,2020,12.4
+Pakistan,March,2020,10.2
+Pakistan,April,2020,8.5
+Pakistan,May,2020,8.2
+Pakistan,June,2020,8.6
+Pakistan,July,2020,9.3
+Pakistan,August,2020,8.2
+Pakistan,September,2020,9
+Pakistan,October,2020,8.9
+Pakistan,November,2020,8.3
+Pakistan,December,2020,8
+Pakistan,January,2021,5.7
+Pakistan,February,2021,5.4
+Pakistan,March,2021,9.1
+Pakistan,April,2021,11.1
+Pakistan,May,2021,10.9
+Pakistan,June,2021,9.7
+Pakistan,July,2021,8.4
+Pakistan,August,2021,8.4
+Pakistan,September,2021,9
+Pakistan,October,2021,9.2
+Pakistan,November,2021,11.5
+Pakistan,December,2021,12.3
+Pakistan,January,2022,13
+Pakistan,February,2022,12.2
+Pakistan,March,2022,12.7
+Pakistan,April,2022,13.4
+Pakistan,May,2022,13.8
+Pakistan,June,2022,21.3
+Pakistan,July,2022,24.9
+Pakistan,August,2022,27.3
+Pakistan,September,2022,23.2
+Pakistan,October,2022,26.6
+Pakistan,November,2022,23.8
+Pakistan,December,2022,24.5
+Pakistan,January,2023,27.6
+Pakistan,February,2023,31.5
+Pakistan,March,2023,35.4
+Pakistan,April,2023,36.4
+Pakistan,May,2023,38
+Pakistan,June,2023,29.4
+Pakistan,July,2023,28.3
+Pakistan,August,2023,27.4
+Pakistan,September,2023,31.4
+Pakistan,October,2023,26.8
+Pakistan,November,2023,29.2
+Pakistan,December,2023,29.7
+Pakistan,January,2024,28.3
+Pakistan,February,2024,23.1
+Pakistan,March,2024,20.7
+Pakistan,April,2024,17.3
+Pakistan,May,2024,11.8
+Pakistan,June,2024,12.6
+Pakistan,July,2024,11.1
+Pakistan,August,2024,9.6
+Pakistan,January,2025,8
+Pakistan,February,2025,7.8
+Pakistan,March,2025,7.6
+Pakistan,April,2025,7.5
+Pakistan,May,2025,7.4
+Pakistan,June,2025,7.3
+Pakistan,July,2025,7.2
+Pakistan,August,2025,7.2
+Sri Lanka,January,2016,2.1
+Sri Lanka,February,2016,2
+Sri Lanka,March,2016,2.2
+Sri Lanka,April,2016,3.1
+Sri Lanka,May,2016,4
+Sri Lanka,June,2016,4.2
+Sri Lanka,July,2016,4.1
+Sri Lanka,August,2016,4
+Sri Lanka,September,2016,4.2
+Sri Lanka,October,2016,4.2
+Sri Lanka,November,2016,4.1
+Sri Lanka,December,2016,4.5
+Sri Lanka,January,2017,5.6
+Sri Lanka,February,2017,6.8
+Sri Lanka,March,2017,7.3
+Sri Lanka,April,2017,7
+Sri Lanka,May,2017,7.1
+Sri Lanka,June,2017,6.1
+Sri Lanka,July,2017,6.3
+Sri Lanka,August,2017,7.1
+Sri Lanka,September,2017,7.3
+Sri Lanka,October,2017,7.8
+Sri Lanka,November,2017,7.6
+Sri Lanka,December,2017,7.1
+Sri Lanka,January,2018,5.8
+Sri Lanka,February,2018,4.5
+Sri Lanka,March,2018,4.2
+Sri Lanka,April,2018,3.8
+Sri Lanka,May,2018,4
+Sri Lanka,June,2018,4.4
+Sri Lanka,July,2018,5.4
+Sri Lanka,August,2018,5
+Sri Lanka,September,2018,4.3
+Sri Lanka,October,2018,3.1
+Sri Lanka,November,2018,1
+Sri Lanka,December,2018,2.1
+Sri Lanka,January,2019,3.7
+Sri Lanka,February,2019,2.4
+Sri Lanka,March,2019,4.1
+Sri Lanka,April,2019,4.5
+Sri Lanka,May,2019,5
+Sri Lanka,June,2019,3.8
+Sri Lanka,July,2019,3.3
+Sri Lanka,August,2019,3.4
+Sri Lanka,September,2019,3.5
+Sri Lanka,October,2019,4
+Sri Lanka,November,2019,4.1
+Sri Lanka,December,2019,4.8
+Sri Lanka,January,2020,5.7
+Sri Lanka,February,2020,6.2
+Sri Lanka,March,2020,5.4
+Sri Lanka,April,2020,4.5
+Sri Lanka,May,2020,4
+Sri Lanka,June,2020,4.7
+Sri Lanka,July,2020,4.2
+Sri Lanka,August,2020,4.1
+Sri Lanka,September,2020,4
+Sri Lanka,October,2020,4
+Sri Lanka,November,2020,4.1
+Sri Lanka,December,2020,4.2
+Sri Lanka,January,2021,3
+Sri Lanka,February,2021,3.3
+Sri Lanka,March,2021,4.1
+Sri Lanka,April,2021,3.9
+Sri Lanka,May,2021,4
+Sri Lanka,June,2021,5.2
+Sri Lanka,July,2021,5.7
+Sri Lanka,August,2021,6
+Sri Lanka,September,2021,5.7
+Sri Lanka,October,2021,7.6
+Sri Lanka,November,2021,9.9
+Sri Lanka,December,2021,12.1
+Sri Lanka,January,2022,14.2
+Sri Lanka,February,2022,15.1
+Sri Lanka,March,2022,18.7
+Sri Lanka,April,2022,29.8
+Sri Lanka,May,2022,39.1
+Sri Lanka,June,2022,54.6
+Sri Lanka,July,2022,60.8
+Sri Lanka,August,2022,64.3
+Sri Lanka,September,2022,69.8
+Sri Lanka,October,2022,66
+Sri Lanka,November,2022,61
+Sri Lanka,December,2022,57.2
+Sri Lanka,January,2023,50.6
+Sri Lanka,February,2023,50.7
+Sri Lanka,March,2023,50.3
+Sri Lanka,April,2023,35.3
+Sri Lanka,May,2023,25.2
+Sri Lanka,June,2023,12
+Sri Lanka,July,2023,6.3
+Sri Lanka,August,2023,4
+Sri Lanka,September,2023,1.3
+Sri Lanka,October,2023,1.5
+Sri Lanka,November,2023,2.8
+Sri Lanka,December,2023,4
+Sri Lanka,January,2024,6.5
+Sri Lanka,February,2024,5.9
+Sri Lanka,March,2024,2.5
+Sri Lanka,April,2024,1.5
+Sri Lanka,May,2024,0.9
+Sri Lanka,June,2024,1.7
+Sri Lanka,July,2024,1.7
+Sri Lanka,August,2024,0.5
+Sri Lanka,January,2025,2
+Sri Lanka,February,2025,1.8
+Sri Lanka,March,2025,1.6
+Sri Lanka,April,2025,1.4
+Sri Lanka,May,2025,1.3
+Sri Lanka,June,2025,1.2
+Sri Lanka,July,2025,1.1
+Sri Lanka,August,2025,1
+Thailand,January,2016,-0.1
+Thailand,February,2016,-0.2
+Thailand,March,2016,-0.4
+Thailand,April,2016,-0.1
+Thailand,May,2016,0.5
+Thailand,June,2016,0.4
+Thailand,July,2016,0.1
+Thailand,August,2016,0.3
+Thailand,September,2016,0.4
+Thailand,October,2016,0.3
+Thailand,November,2016,0.2
+Thailand,December,2016,1.1
+Thailand,January,2017,1.6
+Thailand,February,2017,1.4
+Thailand,March,2017,0.8
+Thailand,April,2017,0.4
+Thailand,May,2017,0
+Thailand,June,2017,-0.1
+Thailand,July,2017,0.2
+Thailand,August,2017,0.3
+Thailand,September,2017,0.9
+Thailand,October,2017,0.9
+Thailand,November,2017,0.8
+Thailand,December,2017,0.8
+Thailand,January,2018,0.7
+Thailand,February,2018,0.4
+Thailand,March,2018,0.8
+Thailand,April,2018,1.1
+Thailand,May,2018,1.5
+Thailand,June,2018,1.4
+Thailand,July,2018,1.5
+Thailand,August,2018,1.6
+Thailand,September,2018,1.3
+Thailand,October,2018,1.2
+Thailand,November,2018,0.9
+Thailand,December,2018,0.7
+Thailand,January,2019,0.3
+Thailand,February,2019,0.2
+Thailand,March,2019,0.4
+Thailand,April,2019,1.2
+Thailand,May,2019,1.2
+Thailand,June,2019,0.9
+Thailand,July,2019,0.9
+Thailand,August,2019,0.5
+Thailand,September,2019,0.3
+Thailand,October,2019,0.1
+Thailand,November,2019,0.2
+Thailand,December,2019,0.9
+Thailand,January,2020,1.1
+Thailand,February,2020,0.7
+Thailand,March,2020,-0.5
+Thailand,April,2020,-1
+Thailand,May,2020,-1.6
+Thailand,June,2020,-1.8
+Thailand,July,2020,-1.1
+Thailand,August,2020,-0.5
+Thailand,September,2020,-0.7
+Thailand,October,2020,-0.9
+Thailand,November,2020,-1.2
+Thailand,December,2020,-0.3
+Thailand,January,2021,-0.3
+Thailand,February,2021,-1.2
+Thailand,March,2021,0.1
+Thailand,April,2021,1
+Thailand,May,2021,1.9
+Thailand,June,2021,1.3
+Thailand,July,2021,0.5
+Thailand,August,2021,0.4
+Thailand,September,2021,1.7
+Thailand,October,2021,2.4
+Thailand,November,2021,2.7
+Thailand,December,2021,2.2
+Thailand,January,2022,3.2
+Thailand,February,2022,5.3
+Thailand,March,2022,5.7
+Thailand,April,2022,4.7
+Thailand,May,2022,7.1
+Thailand,June,2022,7.7
+Thailand,July,2022,7.6
+Thailand,August,2022,7.3
+Thailand,September,2022,6.4
+Thailand,October,2022,6
+Thailand,November,2022,5.6
+Thailand,December,2022,5.9
+Thailand,January,2023,5
+Thailand,February,2023,3.8
+Thailand,March,2023,2.8
+Thailand,April,2023,2.7
+Thailand,May,2023,1.6
+Thailand,June,2023,0.2
+Thailand,July,2023,0.4
+Thailand,August,2023,0.9
+Thailand,September,2023,0.3
+Thailand,October,2023,0.1
+Thailand,November,2023,-0.4
+Thailand,December,2023,-0.8
+Thailand,January,2024,-0.8
+Thailand,February,2024,-0.8
+Thailand,March,2024,-0.5
+Thailand,April,2024,0.2
+Thailand,May,2024,1.5
+Thailand,June,2024,0.6
+Thailand,July,2024,0.8
+Thailand,August,2024,0.4
+Thailand,January,2025,0.8
+Thailand,February,2025,0.7
+Thailand,March,2025,0.7
+Thailand,April,2025,0.6
+Thailand,May,2025,0.6
+Thailand,June,2025,0.6
+Thailand,July,2025,0.6
+Thailand,August,2025,0.6
+Turkey,January,2016,9.6
+Turkey,February,2016,8.8
+Turkey,March,2016,7.5
+Turkey,April,2016,6.6
+Turkey,May,2016,6.6
+Turkey,June,2016,7.6
+Turkey,July,2016,8.8
+Turkey,August,2016,8.1
+Turkey,September,2016,7.3
+Turkey,October,2016,7.2
+Turkey,November,2016,7
+Turkey,December,2016,8.5
+Turkey,January,2017,9.2
+Turkey,February,2017,10.1
+Turkey,March,2017,11.3
+Turkey,April,2017,11.9
+Turkey,May,2017,11.7
+Turkey,June,2017,10.9
+Turkey,July,2017,9.8
+Turkey,August,2017,10.7
+Turkey,September,2017,11.2
+Turkey,October,2017,11.9
+Turkey,November,2017,13
+Turkey,December,2017,11.9
+Turkey,January,2018,10.4
+Turkey,February,2018,10.3
+Turkey,March,2018,10.2
+Turkey,April,2018,10.9
+Turkey,May,2018,12.2
+Turkey,June,2018,15.4
+Turkey,July,2018,15.8
+Turkey,August,2018,17.9
+Turkey,September,2018,24.5
+Turkey,October,2018,25.2
+Turkey,November,2018,21.6
+Turkey,December,2018,20.3
+Turkey,January,2019,20.4
+Turkey,February,2019,19.7
+Turkey,March,2019,19.7
+Turkey,April,2019,19.5
+Turkey,May,2019,18.7
+Turkey,June,2019,15.7
+Turkey,July,2019,16.7
+Turkey,August,2019,15
+Turkey,September,2019,9.3
+Turkey,October,2019,8.6
+Turkey,November,2019,10.6
+Turkey,December,2019,11.8
+Turkey,January,2020,12.2
+Turkey,February,2020,12.4
+Turkey,March,2020,11.9
+Turkey,April,2020,10.9
+Turkey,May,2020,11.4
+Turkey,June,2020,12.6
+Turkey,July,2020,11.8
+Turkey,August,2020,11.8
+Turkey,September,2020,11.8
+Turkey,October,2020,11.9
+Turkey,November,2020,14
+Turkey,December,2020,14.6
+Turkey,January,2021,15
+Turkey,February,2021,15.6
+Turkey,March,2021,16.2
+Turkey,April,2021,17.1
+Turkey,May,2021,16.6
+Turkey,June,2021,17.5
+Turkey,July,2021,19
+Turkey,August,2021,19.3
+Turkey,September,2021,19.6
+Turkey,October,2021,19.9
+Turkey,November,2021,21.3
+Turkey,December,2021,36.1
+Turkey,January,2022,48.7
+Turkey,February,2022,54.4
+Turkey,March,2022,61.1
+Turkey,April,2022,70
+Turkey,May,2022,73.5
+Turkey,June,2022,78.6
+Turkey,July,2022,79.6
+Turkey,August,2022,80.2
+Turkey,September,2022,83.5
+Turkey,October,2022,85.5
+Turkey,November,2022,84.4
+Turkey,December,2022,64.3
+Turkey,January,2023,57.7
+Turkey,February,2023,55.2
+Turkey,March,2023,50.5
+Turkey,April,2023,43.7
+Turkey,May,2023,39.6
+Turkey,June,2023,38.2
+Turkey,July,2023,47.8
+Turkey,August,2023,58.9
+Turkey,September,2023,61.5
+Turkey,October,2023,61.4
+Turkey,November,2023,62
+Turkey,December,2023,64.8
+Turkey,January,2024,64.9
+Turkey,February,2024,67.1
+Turkey,March,2024,68.5
+Turkey,April,2024,69.8
+Turkey,May,2024,75.5
+Turkey,June,2024,71.6
+Turkey,July,2024,61.8
+Turkey,August,2024,51.9
+Turkey,January,2025,45
+Turkey,February,2025,42.5
+Turkey,March,2025,40
+Turkey,April,2025,38
+Turkey,May,2025,37
+Turkey,June,2025,36.5
+Turkey,July,2025,36
+Turkey,August,2025,36.8
+Philippines,January,2016,1.3
+Philippines,February,2016,0.9
+Philippines,March,2016,1.1
+Philippines,April,2016,1.1
+Philippines,May,2016,1.6
+Philippines,June,2016,1.9
+Philippines,July,2016,1.3
+Philippines,August,2016,1.8
+Philippines,September,2016,2.3
+Philippines,October,2016,2.3
+Philippines,November,2016,2.5
+Philippines,December,2016,2.6
+Philippines,January,2017,2.7
+Philippines,February,2017,3.3
+Philippines,March,2017,3.4
+Philippines,April,2017,3.4
+Philippines,May,2017,3.4
+Philippines,June,2017,2.8
+Philippines,July,2017,2.4
+Philippines,August,2017,3.1
+Philippines,September,2017,3.4
+Philippines,October,2017,3.5
+Philippines,November,2017,3.3
+Philippines,December,2017,3.3
+Philippines,January,2018,3.4
+Philippines,February,2018,3.9
+Philippines,March,2018,4.3
+Philippines,April,2018,4.5
+Philippines,May,2018,4.6
+Philippines,June,2018,5.2
+Philippines,July,2018,5.7
+Philippines,August,2018,6.4
+Philippines,September,2018,6.7
+Philippines,October,2018,6.7
+Philippines,November,2018,6
+Philippines,December,2018,5.1
+Philippines,January,2019,4.4
+Philippines,February,2019,3.8
+Philippines,March,2019,3.3
+Philippines,April,2019,3
+Philippines,May,2019,2.7
+Philippines,June,2019,2.7
+Philippines,July,2019,2.4
+Philippines,August,2019,2.4
+Philippines,September,2019,0.9
+Philippines,October,2019,0.8
+Philippines,November,2019,1.4
+Philippines,December,2019,2.5
+Philippines,January,2020,2.9
+Philippines,February,2020,2.6
+Philippines,March,2020,2.5
+Philippines,April,2020,2.2
+Philippines,May,2020,2.1
+Philippines,June,2020,2.5
+Philippines,July,2020,2.7
+Philippines,August,2020,2.4
+Philippines,September,2020,2.3
+Philippines,October,2020,2.5
+Philippines,November,2020,3.3
+Philippines,December,2020,3.5
+Philippines,January,2021,3.5
+Philippines,February,2021,4.2
+Philippines,March,2021,4.5
+Philippines,April,2021,4.5
+Philippines,May,2021,4.5
+Philippines,June,2021,4.1
+Philippines,July,2021,4
+Philippines,August,2021,4.9
+Philippines,September,2021,4.8
+Philippines,October,2021,4.6
+Philippines,November,2021,4.2
+Philippines,December,2021,3.6
+Philippines,January,2022,3
+Philippines,February,2022,3
+Philippines,March,2022,4
+Philippines,April,2022,4.9
+Philippines,May,2022,5.4
+Philippines,June,2022,6.1
+Philippines,July,2022,6.4
+Philippines,August,2022,6.3
+Philippines,September,2022,6.9
+Philippines,October,2022,7.7
+Philippines,November,2022,8
+Philippines,December,2022,8.1
+Philippines,January,2023,8.7
+Philippines,February,2023,8.6
+Philippines,March,2023,7.6
+Philippines,April,2023,6.6
+Philippines,May,2023,6.1
+Philippines,June,2023,5.4
+Philippines,July,2023,4.7
+Philippines,August,2023,5.3
+Philippines,September,2023,6.1
+Philippines,October,2023,4.9
+Philippines,November,2023,4.1
+Philippines,December,2023,3.9
+Philippines,January,2024,2.8
+Philippines,February,2024,3.4
+Philippines,March,2024,3.7
+Philippines,April,2024,3.8
+Philippines,May,2024,3.9
+Philippines,June,2024,3.7
+Philippines,July,2024,4.4
+Philippines,August,2024,3.3
+Philippines,January,2025,2.5
+Philippines,February,2025,2.7
+Philippines,March,2025,2.9
+Philippines,April,2025,3.1
+Philippines,May,2025,3.2
+Philippines,June,2025,3.3
+Philippines,July,2025,3.4
+Philippines,August,2025,3.5
+Greece,January,2016,-0.2
+Greece,February,2016,-0.3
+Greece,March,2016,-0.7
+Greece,April,2016,-0.4
+Greece,May,2016,-0.5
+Greece,June,2016,-0.7
+Greece,July,2016,-1
+Greece,August,2016,-0.9
+Greece,September,2016,-0.1
+Greece,October,2016,0.1
+Greece,November,2016,0
+Greece,December,2016,0.3
+Greece,January,2017,0
+Greece,February,2017,1.3
+Greece,March,2017,1.7
+Greece,April,2017,1.6
+Greece,May,2017,1.2
+Greece,June,2017,1
+Greece,July,2017,0.9
+Greece,August,2017,0.6
+Greece,September,2017,1
+Greece,October,2017,0.7
+Greece,November,2017,1.1
+Greece,December,2017,0.7
+Greece,January,2018,0.2
+Greece,February,2018,0.1
+Greece,March,2018,0.2
+Greece,April,2018,0
+Greece,May,2018,0.5
+Greece,June,2018,1
+Greece,July,2018,0.8
+Greece,August,2018,0.4
+Greece,September,2018,1.1
+Greece,October,2018,1.8
+Greece,November,2018,1
+Greece,December,2018,0.6
+Greece,January,2019,0
+Greece,February,2019,0.4
+Greece,March,2019,0.6
+Greece,April,2019,1.1
+Greece,May,2019,0.6
+Greece,June,2019,0.3
+Greece,July,2019,0.4
+Greece,August,2019,0.2
+Greece,September,2019,-0.2
+Greece,October,2019,-0.3
+Greece,November,2019,0.2
+Greece,December,2019,0.8
+Greece,January,2020,1.1
+Greece,February,2020,0.9
+Greece,March,2020,0
+Greece,April,2020,-0.9
+Greece,May,2020,-1.1
+Greece,June,2020,-1.9
+Greece,July,2020,-2.1
+Greece,August,2020,-0.2
+Greece,September,2020,-1.8
+Greece,October,2020,-1.8
+Greece,November,2020,-2.1
+Greece,December,2020,-2.4
+Greece,January,2021,-1.3
+Greece,February,2021,-1.3
+Greece,March,2021,-1.6
+Greece,April,2021,-1.2
+Greece,May,2021,-1.2
+Greece,June,2021,1
+Greece,July,2021,1.4
+Greece,August,2021,1.9
+Greece,September,2021,2.2
+Greece,October,2021,3.4
+Greece,November,2021,4.8
+Greece,December,2021,5.1
+Greece,January,2022,5.2
+Greece,February,2022,6.3
+Greece,March,2022,8
+Greece,April,2022,9.4
+Greece,May,2022,10.5
+Greece,June,2022,11.6
+Greece,July,2022,11.3
+Greece,August,2022,11.4
+Greece,September,2022,12
+Greece,October,2022,9.5
+Greece,November,2022,8.5
+Greece,December,2022,7.2
+Greece,January,2023,7
+Greece,February,2023,6.5
+Greece,March,2023,5.4
+Greece,April,2023,4.5
+Greece,May,2023,4.1
+Greece,June,2023,2.8
+Greece,July,2023,3.4
+Greece,August,2023,3.8
+Greece,September,2023,2.4
+Greece,October,2023,3.8
+Greece,November,2023,3
+Greece,December,2023,3.7
+Greece,January,2024,3.1
+Greece,February,2024,3.2
+Greece,March,2024,3.4
+Greece,April,2024,3.2
+Greece,May,2024,2.4
+Greece,June,2024,2.3
+Greece,July,2024,2.5
+Greece,August,2024,2.7
+Greece,January,2025,2.8
+Greece,February,2025,2.8
+Greece,March,2025,2.8
+Greece,April,2025,2.9
+Greece,May,2025,2.9
+Greece,June,2025,2.9
+Greece,July,2025,2.9
+Greece,August,2025,2.9
+Portugal,January,2016,0.8
+Portugal,February,2016,0.5
+Portugal,March,2016,0.4
+Portugal,April,2016,0.5
+Portugal,May,2016,0.4
+Portugal,June,2016,0.9
+Portugal,July,2016,0.6
+Portugal,August,2016,0.7
+Portugal,September,2016,0.6
+Portugal,October,2016,1.2
+Portugal,November,2016,0.6
+Portugal,December,2016,0.9
+Portugal,January,2017,1.3
+Portugal,February,2017,2
+Portugal,March,2017,1.4
+Portugal,April,2017,2
+Portugal,May,2017,1.5
+Portugal,June,2017,1
+Portugal,July,2017,1
+Portugal,August,2017,1.2
+Portugal,September,2017,1.4
+Portugal,October,2017,1.9
+Portugal,November,2017,1.5
+Portugal,December,2017,1.3
+Portugal,January,2018,1
+Portugal,February,2018,0.6
+Portugal,March,2018,0.7
+Portugal,April,2018,0.4
+Portugal,May,2018,1
+Portugal,June,2018,2
+Portugal,July,2018,2.5
+Portugal,August,2018,1.4
+Portugal,September,2018,1.4
+Portugal,October,2018,0.9
+Portugal,November,2018,0.9
+Portugal,December,2018,0.6
+Portugal,January,2019,0.6
+Portugal,February,2019,0.9
+Portugal,March,2019,0.8
+Portugal,April,2019,0.9
+Portugal,May,2019,0.4
+Portugal,June,2019,0.7
+Portugal,July,2019,0.3
+Portugal,August,2019,0.1
+Portugal,September,2019,-0.3
+Portugal,October,2019,-0.1
+Portugal,November,2019,0.4
+Portugal,December,2019,0.4
+Portugal,January,2020,0.8
+Portugal,February,2020,0.4
+Portugal,March,2020,0.1
+Portugal,April,2020,-0.3
+Portugal,May,2020,-0.7
+Portugal,June,2020,0.1
+Portugal,July,2020,-0.1
+Portugal,August,2020,-0.1
+Portugal,September,2020,0
+Portugal,October,2020,-0.6
+Portugal,November,2020,-0.4
+Portugal,December,2020,-0.2
+Portugal,January,2021,0.2
+Portugal,February,2021,0.2
+Portugal,March,2021,0.1
+Portugal,April,2021,0.7
+Portugal,May,2021,1.2
+Portugal,June,2021,0.5
+Portugal,July,2021,1.1
+Portugal,August,2021,1.5
+Portugal,September,2021,1.5
+Portugal,October,2021,1.8
+Portugal,November,2021,2.6
+Portugal,December,2021,2.7
+Portugal,January,2022,3.3
+Portugal,February,2022,4.2
+Portugal,March,2022,5.3
+Portugal,April,2022,7.2
+Portugal,May,2022,8
+Portugal,June,2022,8.7
+Portugal,July,2022,9.1
+Portugal,August,2022,8.9
+Portugal,September,2022,9.3
+Portugal,October,2022,10.2
+Portugal,November,2022,9.9
+Portugal,December,2022,9.6
+Portugal,January,2023,8.4
+Portugal,February,2023,8.6
+Portugal,March,2023,7.4
+Portugal,April,2023,5.7
+Portugal,May,2023,4
+Portugal,June,2023,3.4
+Portugal,July,2023,3.1
+Portugal,August,2023,5
+Portugal,September,2023,3.6
+Portugal,October,2023,2.1
+Portugal,November,2023,1.5
+Portugal,December,2023,1.4
+Portugal,January,2024,2.3
+Portugal,February,2024,2.1
+Portugal,March,2024,2.6
+Portugal,April,2024,2.2
+Portugal,May,2024,3.2
+Portugal,June,2024,2.8
+Portugal,July,2024,2.5
+Portugal,August,2024,2.2
+Portugal,January,2025,2.4
+Portugal,February,2025,2.4
+Portugal,March,2025,2.5
+Portugal,April,2025,2.5
+Portugal,May,2025,2.5
+Portugal,June,2025,2.6
+Portugal,July,2025,2.6
+Portugal,August,2025,2.6
+France,January,2016,0.2
+France,February,2016,-0.2
+France,March,2016,-0.1
+France,April,2016,-0.2
+France,May,2016,0
+France,June,2016,0.2
+France,July,2016,0.2
+France,August,2016,0.2
+France,September,2016,0.4
+France,October,2016,0.4
+France,November,2016,0.5
+France,December,2016,0.6
+France,January,2017,1.3
+France,February,2017,1.2
+France,March,2017,1.1
+France,April,2017,1.2
+France,May,2017,0.8
+France,June,2017,0.7
+France,July,2017,0.7
+France,August,2017,0.9
+France,September,2017,1
+France,October,2017,1.1
+France,November,2017,1.2
+France,December,2017,1.2
+France,January,2018,1.3
+France,February,2018,1.2
+France,March,2018,1.6
+France,April,2018,1.6
+France,May,2018,2
+France,June,2018,2
+France,July,2018,2.3
+France,August,2018,2.3
+France,September,2018,2.2
+France,October,2018,2.2
+France,November,2018,1.9
+France,December,2018,1.6
+France,January,2019,1.2
+France,February,2019,1.3
+France,March,2019,1.1
+France,April,2019,1.3
+France,May,2019,0.9
+France,June,2019,1.2
+France,July,2019,1.1
+France,August,2019,1
+France,September,2019,0.9
+France,October,2019,0.8
+France,November,2019,1
+France,December,2019,1.5
+France,January,2020,1.5
+France,February,2020,1.4
+France,March,2020,0.7
+France,April,2020,0.3
+France,May,2020,0.4
+France,June,2020,0.2
+France,July,2020,0.8
+France,August,2020,0.2
+France,September,2020,0
+France,October,2020,0
+France,November,2020,0.2
+France,December,2020,0
+France,January,2021,0.6
+France,February,2021,0.6
+France,March,2021,1.1
+France,April,2021,1.2
+France,May,2021,1.4
+France,June,2021,1.5
+France,July,2021,1.2
+France,August,2021,1.9
+France,September,2021,2.2
+France,October,2021,2.6
+France,November,2021,2.8
+France,December,2021,2.8
+France,January,2022,2.9
+France,February,2022,3.6
+France,March,2022,4.5
+France,April,2022,4.8
+France,May,2022,5.2
+France,June,2022,5.8
+France,July,2022,6.1
+France,August,2022,5.9
+France,September,2022,5.6
+France,October,2022,6.2
+France,November,2022,6.2
+France,December,2022,5.9
+France,January,2023,6
+France,February,2023,6.3
+France,March,2023,5.7
+France,April,2023,5.9
+France,May,2023,5.1
+France,June,2023,4.5
+France,July,2023,4.3
+France,August,2023,4.9
+France,September,2023,4.9
+France,October,2023,4
+France,November,2023,3.5
+France,December,2023,3.7
+France,January,2024,3.1
+France,February,2024,2.9
+France,March,2024,2.3
+France,April,2024,2.2
+France,May,2024,2.3
+France,June,2024,2.2
+France,July,2024,2.3
+France,August,2024,1.8
+France,January,2025,1.2
+France,February,2025,1.1
+France,March,2025,1
+France,April,2025,1
+France,May,2025,0.9
+France,June,2025,0.9
+France,July,2025,0.9
+France,August,2025,0.9
