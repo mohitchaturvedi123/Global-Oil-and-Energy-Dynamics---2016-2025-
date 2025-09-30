@@ -38,9 +38,12 @@ This project provides a **data-driven analysis** of global oil and energy trade 
 - Energy flows remain profit-driven, overriding morality/ethics.  
 - Both the U.S. and EU were unable to completely block or eliminate trade with Russia due to reliance on critical resources.
 
-  - 📄 [Final Report](https://github.com/mohitchaturvedi123/Global-Oil-and-Energy-Dynamics---2016-2025-/blob/Final-Report/Project%20Report_final.pdf)  
-- 📊 [Charts & Dashboards](https://github.com/mohitchaturvedi123/Global-Oil-and-Energy-Dynamics---2016-2025-/tree/All-Charts-and-Screenshots)  
-- 🐍 [Python Code](https://github.com/mohitchaturvedi123/Global-Oil-and-Energy-Dynamics---2016-2025-/tree/All-Python-Code-Notebooks)  
+
+## Links for Quick Access
+
+📄 [Final Report](https://github.com/mohitchaturvedi123/Global-Oil-and-Energy-Dynamics---2016-2025-/blob/Final-Report/Project%20Report_final.pdf)  
+📊 [Charts & Dashboards](https://github.com/mohitchaturvedi123/Global-Oil-and-Energy-Dynamics---2016-2025-/tree/All-Charts-and-Screenshots)  
+🐍 [Python Code](https://github.com/mohitchaturvedi123/Global-Oil-and-Energy-Dynamics---2016-2025-/tree/All-Python-Code-Notebooks)  
 
 ## License
 This work is shared for **educational and research purposes**.
